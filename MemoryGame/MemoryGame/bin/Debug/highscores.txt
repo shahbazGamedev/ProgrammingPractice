@@ -1,5 +1,2 @@
-Todor: 32 moves
-Todor: 50 moves
-Тодор: 22 moves
-Gosho: 32 moves
-ewe: 22 moves
+Todor: 20 moves
+Todor: 16 moves

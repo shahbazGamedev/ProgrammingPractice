@@ -177,7 +177,11 @@ Try doing as fewer moves as          possible!");
             Console.SetCursorPosition(0, 0);
             Console.WriteLine("\t HIGH SCORES\n\n");
 
-            if (new FileInfo("highscores.txt").Length == 0)
+            if (!File.Exists("highscores.txt"))
+            {
+                File.Create("highscores.txt");   
+            }
+            else if (new FileInfo("highscores.txt").Length == 0)
             {
                 Console.WriteLine("No highscore data was found!");
             }

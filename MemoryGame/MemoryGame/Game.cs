@@ -433,7 +433,7 @@ namespace MemoryGame
       | |  | \ \ / / _ | '___|
       | |__| |\ V |  __| |
        \____/  \_/ \___|_|");
-     
+
             Thread.Sleep(2000);
 
             Console.Clear();
@@ -441,15 +441,16 @@ namespace MemoryGame
             Console.ForegroundColor = ConsoleColor.White;
             Console.SetCursorPosition(0, 0);
             Console.Write("Enter your name: ");
-            
+
             string name = Console.ReadLine();
 
             Console.CursorVisible = false;
 
-            using (StreamWriter writer = File.AppendText("highscores.txt"))
-            {
-                writer.WriteLine(name + ": " + countOfMoves + " moves");
-            }
+            StreamWriter writer = File.AppendText("highscores.txt");
+
+            writer.WriteLine(name + ": " + countOfMoves + " moves");
+
+            writer.Close();
         }
 
         public static void Start()
