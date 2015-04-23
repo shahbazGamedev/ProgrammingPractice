@@ -1,0 +1,8 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem5_IsItSunnyToday\bin\Debug\Problem5_IsItSunnyToday.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem5_IsItSunnyToday\bin\Debug\Problem5_IsItSunnyToday.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem5_IsItSunnyToday\bin\Debug\Problem5_IsItSunnyToday.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem5_IsItSunnyToday\obj\Debug\Problem5_IsItSunnyToday.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem5_IsItSunnyToday\obj\Debug\Problem5_IsItSunnyToday.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem5_IsItSunnyToday\bin\Debug\Problem5_IsItSunnyToday.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem5_IsItSunnyToday\obj\Debug\Problem5_IsItSunnyToday.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem5_IsItSunnyToday\obj\Debug\Problem5_IsItSunnyToday.pdb

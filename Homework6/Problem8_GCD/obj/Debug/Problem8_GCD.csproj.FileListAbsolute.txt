@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem8_GCD\bin\Debug\Problem8_GCD.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem8_GCD\bin\Debug\Problem8_GCD.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem8_GCD\bin\Debug\Problem8_GCD.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem8_GCD\obj\Debug\Problem8_GCD.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem8_GCD\obj\Debug\Problem8_GCD.pdb

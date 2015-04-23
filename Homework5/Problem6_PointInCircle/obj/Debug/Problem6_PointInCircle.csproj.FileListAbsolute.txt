@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem6_PointInCircle\bin\Debug\Problem6_PointInCircle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem6_PointInCircle\bin\Debug\Problem6_PointInCircle.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem6_PointInCircle\bin\Debug\Problem6_PointInCircle.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem6_PointInCircle\obj\Debug\Problem6_PointInCircle.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem6_PointInCircle\obj\Debug\Problem6_PointInCircle.pdb

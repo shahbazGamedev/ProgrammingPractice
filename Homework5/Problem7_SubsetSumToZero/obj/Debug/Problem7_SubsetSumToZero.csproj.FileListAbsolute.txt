@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem7_SubsetSumToZero\bin\Debug\Problem7_SubsetSumToZero.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem7_SubsetSumToZero\bin\Debug\Problem7_SubsetSumToZero.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem7_SubsetSumToZero\bin\Debug\Problem7_SubsetSumToZero.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem7_SubsetSumToZero\obj\Debug\Problem7_SubsetSumToZero.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem7_SubsetSumToZero\obj\Debug\Problem7_SubsetSumToZero.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem7_SubsetSumToZero\obj\Debug\Problem7_SubsetSumToZero.csprojResolveAssemblyReference.cache

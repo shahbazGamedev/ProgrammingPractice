@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem11_BinarySearch\bin\Debug\Problem11_BinarySearch.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem11_BinarySearch\bin\Debug\Problem11_BinarySearch.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem11_BinarySearch\bin\Debug\Problem11_BinarySearch.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem11_BinarySearch\obj\Debug\Problem11_BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem11_BinarySearch\obj\Debug\Problem11_BinarySearch.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem11_BinarySearch\obj\Debug\Problem11_BinarySearch.pdb

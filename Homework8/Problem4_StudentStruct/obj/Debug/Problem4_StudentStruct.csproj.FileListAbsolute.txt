@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem4_StudentStruct\bin\Debug\Problem4_StudentStruct.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem4_StudentStruct\bin\Debug\Problem4_StudentStruct.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem4_StudentStruct\bin\Debug\Problem4_StudentStruct.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem4_StudentStruct\obj\Debug\Problem4_StudentStruct.csprojResolveAssemblyReference.cache
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem4_StudentStruct\obj\Debug\Problem4_StudentStruct.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem4_StudentStruct\obj\Debug\Problem4_StudentStruct.pdb

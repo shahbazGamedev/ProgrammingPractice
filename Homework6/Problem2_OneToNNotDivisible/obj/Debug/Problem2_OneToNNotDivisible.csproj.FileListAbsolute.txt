@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem2_OneToNNotDivisible\bin\Debug\Problem2_OneToNNotDivisible.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem2_OneToNNotDivisible\bin\Debug\Problem2_OneToNNotDivisible.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem2_OneToNNotDivisible\bin\Debug\Problem2_OneToNNotDivisible.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem2_OneToNNotDivisible\obj\Debug\Problem2_OneToNNotDivisible.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem2_OneToNNotDivisible\obj\Debug\Problem2_OneToNNotDivisible.pdb

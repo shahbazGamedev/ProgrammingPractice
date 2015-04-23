@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem18_Permutations\bin\Debug\Problem18_Permutations.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem18_Permutations\bin\Debug\Problem18_Permutations.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem18_Permutations\bin\Debug\Problem18_Permutations.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem18_Permutations\obj\Debug\Problem18_Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem18_Permutations\obj\Debug\Problem18_Permutations.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem18_Permutations\obj\Debug\Problem18_Permutations.pdb

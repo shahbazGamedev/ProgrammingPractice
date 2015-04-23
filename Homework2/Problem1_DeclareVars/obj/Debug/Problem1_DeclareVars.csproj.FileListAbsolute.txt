@@ -1,0 +1,12 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem1_DeclareVars\bin\Debug\Problem1_DeclareVars.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem1_DeclareVars\obj\Debug\Problem1_DeclareVars.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem1_DeclareVars\bin\Debug\Problem1_DeclareVars.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem1_DeclareVars\bin\Debug\Problem1_DeclareVars.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem1_DeclareVars\obj\Debug\Problem1_DeclareVars.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem1_DeclareVars\obj\Debug\Problem1_DeclareVars.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem1_DeclareVars\bin\Debug\Problem1_DeclareVars.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem1_DeclareVars\obj\Debug\Problem1_DeclareVars.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem1_DeclareVars\obj\Debug\Problem1_DeclareVars.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem1_DeclareVars\bin\Debug\Problem1_DeclareVars.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem1_DeclareVars\obj\Debug\Problem1_DeclareVars.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem1_DeclareVars\obj\Debug\Problem1_DeclareVars.pdb

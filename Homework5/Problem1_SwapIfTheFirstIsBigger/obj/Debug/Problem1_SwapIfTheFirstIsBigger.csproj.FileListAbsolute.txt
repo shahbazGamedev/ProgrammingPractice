@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem1_SwapIfTheFirstIsBigger\bin\Debug\Problem1_SwapIfTheFirstIsBigger.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem1_SwapIfTheFirstIsBigger\bin\Debug\Problem1_SwapIfTheFirstIsBigger.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem1_SwapIfTheFirstIsBigger\bin\Debug\Problem1_SwapIfTheFirstIsBigger.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem1_SwapIfTheFirstIsBigger\obj\Debug\Problem1_SwapIfTheFirstIsBigger.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem1_SwapIfTheFirstIsBigger\obj\Debug\Problem1_SwapIfTheFirstIsBigger.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem1_SwapIfTheFirstIsBigger\obj\Debug\Problem1_SwapIfTheFirstIsBigger.pdb

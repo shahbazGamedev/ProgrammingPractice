@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem1.2_PrintMatrix\bin\Debug\Problem1.2_PrintMatrix.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem1.2_PrintMatrix\bin\Debug\Problem1.2_PrintMatrix.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem1.2_PrintMatrix\bin\Debug\Problem1.2_PrintMatrix.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem1.2_PrintMatrix\obj\Debug\Problem1.2_PrintMatrix.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem1.2_PrintMatrix\obj\Debug\Problem1.2_PrintMatrix.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem1.2_PrintMatrix\obj\Debug\Problem1.2_PrintMatrix.csprojResolveAssemblyReference.cache

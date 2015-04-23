@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem4_HelloZariba\bin\Debug\Problem4_HelloZariba.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem4_HelloZariba\bin\Debug\Problem4_HelloZariba.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem4_HelloZariba\bin\Debug\Problem4_HelloZariba.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem4_HelloZariba\obj\Debug\Problem4_HelloZariba.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem4_HelloZariba\obj\Debug\Problem4_HelloZariba.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem4_HelloZariba\obj\Debug\Problem4_HelloZariba.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem4_HelloZariba\bin\Debug\Problem4_HelloZariba.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem4_HelloZariba\obj\Debug\Problem4_HelloZariba.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem4_HelloZariba\obj\Debug\Problem4_HelloZariba.pdb

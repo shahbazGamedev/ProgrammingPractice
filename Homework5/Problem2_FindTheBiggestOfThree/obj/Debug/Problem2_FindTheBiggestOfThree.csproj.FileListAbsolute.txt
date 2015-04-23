@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem2_FindTheBiggestOfThree\bin\Debug\Problem2_FindTheBiggestOfThree.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem2_FindTheBiggestOfThree\bin\Debug\Problem2_FindTheBiggestOfThree.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem2_FindTheBiggestOfThree\bin\Debug\Problem2_FindTheBiggestOfThree.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem2_FindTheBiggestOfThree\obj\Debug\Problem2_FindTheBiggestOfThree.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem2_FindTheBiggestOfThree\obj\Debug\Problem2_FindTheBiggestOfThree.pdb

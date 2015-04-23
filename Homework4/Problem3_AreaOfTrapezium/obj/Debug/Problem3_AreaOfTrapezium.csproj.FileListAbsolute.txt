@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem3_AreaOfTrapezium\bin\Debug\Problem3_AreaOfTrapezium.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem3_AreaOfTrapezium\bin\Debug\Problem3_AreaOfTrapezium.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem3_AreaOfTrapezium\bin\Debug\Problem3_AreaOfTrapezium.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem3_AreaOfTrapezium\obj\Debug\Problem3_AreaOfTrapezium.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem3_AreaOfTrapezium\obj\Debug\Problem3_AreaOfTrapezium.pdb

@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem2_CheckBrackets\bin\Debug\Problem2_CheckBrackets.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem2_CheckBrackets\bin\Debug\Problem2_CheckBrackets.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem2_CheckBrackets\bin\Debug\Problem2_CheckBrackets.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem2_CheckBrackets\obj\Debug\Problem2_CheckBrackets.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem2_CheckBrackets\obj\Debug\Problem2_CheckBrackets.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem2_CheckBrackets\obj\Debug\Problem2_CheckBrackets.csprojResolveAssemblyReference.cache

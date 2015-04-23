@@ -1,0 +1,5 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem2_CountGivenNumber\bin\Debug\Problem2_CountGivenNumber.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem2_CountGivenNumber\bin\Debug\Problem2_CountGivenNumber.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem2_CountGivenNumber\bin\Debug\Problem2_CountGivenNumber.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem2_CountGivenNumber\obj\Debug\Problem2_CountGivenNumber.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem2_CountGivenNumber\obj\Debug\Problem2_CountGivenNumber.pdb

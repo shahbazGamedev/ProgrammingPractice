@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem1_ReverseString\bin\Debug\Problem1_ReverseString.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem1_ReverseString\bin\Debug\Problem1_ReverseString.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem1_ReverseString\bin\Debug\Problem1_ReverseString.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem1_ReverseString\obj\Debug\Problem1_ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem1_ReverseString\obj\Debug\Problem1_ReverseString.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem1_ReverseString\obj\Debug\Problem1_ReverseString.pdb

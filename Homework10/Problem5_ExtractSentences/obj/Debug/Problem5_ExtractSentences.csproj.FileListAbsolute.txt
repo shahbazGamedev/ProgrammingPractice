@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem5_ExtractSentences\bin\Debug\Problem5_ExtractSentences.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem5_ExtractSentences\bin\Debug\Problem5_ExtractSentences.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem5_ExtractSentences\bin\Debug\Problem5_ExtractSentences.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem5_ExtractSentences\obj\Debug\Problem5_ExtractSentences.csprojResolveAssemblyReference.cache
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem5_ExtractSentences\obj\Debug\Problem5_ExtractSentences.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem5_ExtractSentences\obj\Debug\Problem5_ExtractSentences.pdb

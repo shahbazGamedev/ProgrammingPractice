@@ -1,0 +1,11 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem4_UnicodeToChar\bin\Debug\Problem4_UnicodeToChar.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem4_UnicodeToChar\bin\Debug\Problem4_UnicodeToChar.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem4_UnicodeToChar\bin\Debug\Problem4_UnicodeToChar.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem4_UnicodeToChar\obj\Debug\Problem4_UnicodeToChar.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem4_UnicodeToChar\obj\Debug\Problem4_UnicodeToChar.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem4_UnicodeToChar\bin\Debug\Problem4_UnicodeToChar.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem4_UnicodeToChar\obj\Debug\Problem4_UnicodeToChar.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem4_UnicodeToChar\obj\Debug\Problem4_UnicodeToChar.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem4_UnicodeToChar\bin\Debug\Problem4_UnicodeToChar.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem4_UnicodeToChar\obj\Debug\Problem4_UnicodeToChar.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem4_UnicodeToChar\obj\Debug\Problem4_UnicodeToChar.pdb

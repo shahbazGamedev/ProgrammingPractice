@@ -1,0 +1,6 @@
+/media/toshkuuu/Windows/Users/Todor/Documents/Visual Studio 2013/Projects/ZaribaAcademy/Homework1/Problem7_PrintTrigonometry/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/toshkuuu/Windows/Users/Todor/Documents/Visual Studio 2013/Projects/ZaribaAcademy/Homework1/Problem7_PrintTrigonometry/bin/Debug/Problem7_PrintTrigonometry.exe.config
+/media/toshkuuu/Windows/Users/Todor/Documents/Visual Studio 2013/Projects/ZaribaAcademy/Homework1/Problem7_PrintTrigonometry/bin/Debug/Problem7_PrintTrigonometry.exe.mdb
+/media/toshkuuu/Windows/Users/Todor/Documents/Visual Studio 2013/Projects/ZaribaAcademy/Homework1/Problem7_PrintTrigonometry/bin/Debug/Problem7_PrintTrigonometry.exe
+/media/toshkuuu/Windows/Users/Todor/Documents/Visual Studio 2013/Projects/ZaribaAcademy/Homework1/Problem7_PrintTrigonometry/obj/Debug/Problem7_PrintTrigonometry.exe
+/media/toshkuuu/Windows/Users/Todor/Documents/Visual Studio 2013/Projects/ZaribaAcademy/Homework1/Problem7_PrintTrigonometry/obj/Debug/Problem7_PrintTrigonometry.exe.mdb

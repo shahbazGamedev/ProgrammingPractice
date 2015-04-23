@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem8_CheckBitAtAnyPosition\bin\Debug\Problem8_CheckBitAtAnyPosition.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem8_CheckBitAtAnyPosition\bin\Debug\Problem8_CheckBitAtAnyPosition.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem8_CheckBitAtAnyPosition\bin\Debug\Problem8_CheckBitAtAnyPosition.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem8_CheckBitAtAnyPosition\obj\Debug\Problem8_CheckBitAtAnyPosition.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem8_CheckBitAtAnyPosition\obj\Debug\Problem8_CheckBitAtAnyPosition.pdb

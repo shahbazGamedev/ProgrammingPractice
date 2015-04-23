@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem5_PrintOneToNNumbers\bin\Debug\Problem5_PrintOneToNNumbers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem5_PrintOneToNNumbers\bin\Debug\Problem5_PrintOneToNNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem5_PrintOneToNNumbers\bin\Debug\Problem5_PrintOneToNNumbers.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem5_PrintOneToNNumbers\obj\Debug\Problem5_PrintOneToNNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem5_PrintOneToNNumbers\obj\Debug\Problem5_PrintOneToNNumbers.pdb

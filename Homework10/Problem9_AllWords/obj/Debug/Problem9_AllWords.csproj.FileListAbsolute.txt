@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem9_AllWords\bin\Debug\Problem9_AllWords.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem9_AllWords\bin\Debug\Problem9_AllWords.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem9_AllWords\bin\Debug\Problem9_AllWords.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem9_AllWords\obj\Debug\Problem9_AllWords.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem9_AllWords\obj\Debug\Problem9_AllWords.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem9_AllWords\obj\Debug\Problem9_AllWords.csprojResolveAssemblyReference.cache

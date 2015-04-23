@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem9_Cards\bin\Debug\Problem9_Cards.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem9_Cards\bin\Debug\Problem9_Cards.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem9_Cards\bin\Debug\Problem9_Cards.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem9_Cards\obj\Debug\Problem9_Cards.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem9_Cards\obj\Debug\Problem9_Cards.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem9_Cards\obj\Debug\Problem9_Cards.pdb

@@ -1,0 +1,8 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem9_RemainderOfNum\bin\Debug\Problem9_RemainderOfNum.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem9_RemainderOfNum\bin\Debug\Problem9_RemainderOfNum.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem9_RemainderOfNum\bin\Debug\Problem9_RemainderOfNum.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem9_RemainderOfNum\obj\Debug\Problem9_RemainderOfNum.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem9_RemainderOfNum\obj\Debug\Problem9_RemainderOfNum.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem9_RemainderOfNum\bin\Debug\Problem9_RemainderOfNum.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem9_RemainderOfNum\obj\Debug\Problem9_RemainderOfNum.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem9_RemainderOfNum\obj\Debug\Problem9_RemainderOfNum.pdb

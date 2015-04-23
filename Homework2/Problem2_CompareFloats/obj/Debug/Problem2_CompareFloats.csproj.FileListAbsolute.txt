@@ -1,0 +1,11 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem2_CompareFloats\bin\Debug\Problem2_CompareFloats.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem2_CompareFloats\bin\Debug\Problem2_CompareFloats.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem2_CompareFloats\bin\Debug\Problem2_CompareFloats.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem2_CompareFloats\obj\Debug\Problem2_CompareFloats.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem2_CompareFloats\obj\Debug\Problem2_CompareFloats.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem2_CompareFloats\bin\Debug\Problem2_CompareFloats.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem2_CompareFloats\obj\Debug\Problem2_CompareFloats.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem2_CompareFloats\obj\Debug\Problem2_CompareFloats.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem2_CompareFloats\bin\Debug\Problem2_CompareFloats.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem2_CompareFloats\obj\Debug\Problem2_CompareFloats.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem2_CompareFloats\obj\Debug\Problem2_CompareFloats.pdb

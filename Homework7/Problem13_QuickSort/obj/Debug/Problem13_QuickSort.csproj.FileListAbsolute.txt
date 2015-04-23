@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem13_QuickSort\bin\Debug\Problem13_QuickSort.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem13_QuickSort\bin\Debug\Problem13_QuickSort.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem13_QuickSort\bin\Debug\Problem13_QuickSort.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem13_QuickSort\obj\Debug\Problem13_QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem13_QuickSort\obj\Debug\Problem13_QuickSort.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem13_QuickSort\obj\Debug\Problem13_QuickSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem6_ReverseWords\bin\Debug\Problem6_ReverseWords.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem6_ReverseWords\bin\Debug\Problem6_ReverseWords.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem6_ReverseWords\bin\Debug\Problem6_ReverseWords.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem6_ReverseWords\obj\Debug\Problem6_ReverseWords.csprojResolveAssemblyReference.cache
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem6_ReverseWords\obj\Debug\Problem6_ReverseWords.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem6_ReverseWords\obj\Debug\Problem6_ReverseWords.pdb

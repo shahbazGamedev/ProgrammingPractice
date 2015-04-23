@@ -1,0 +1,12 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem3_AssignHex\bin\Debug\Problem3_AssignHex.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem3_AssignHex\bin\Debug\Problem3_AssignHex.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem3_AssignHex\bin\Debug\Problem3_AssignHex.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem3_AssignHex\obj\Debug\Problem3_AssignHex.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem3_AssignHex\obj\Debug\Problem3_AssignHex.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework2\Problem3_AssignHex\obj\Debug\Problem3_AssignHex.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem3_AssignHex\bin\Debug\Problem3_AssignHex.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem3_AssignHex\obj\Debug\Problem3_AssignHex.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem3_AssignHex\obj\Debug\Problem3_AssignHex.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem3_AssignHex\bin\Debug\Problem3_AssignHex.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem3_AssignHex\obj\Debug\Problem3_AssignHex.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework2\Problem3_AssignHex\obj\Debug\Problem3_AssignHex.pdb

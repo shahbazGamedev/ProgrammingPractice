@@ -1,0 +1,11 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem10_PrintNames\bin\Debug\Problem10_PrintNames.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem10_PrintNames\bin\Debug\Problem10_PrintNames.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem10_PrintNames\bin\Debug\Problem10_PrintNames.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem10_PrintNames\obj\Debug\Problem10_PrintNames.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem10_PrintNames\obj\Debug\Problem10_PrintNames.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem10_PrintNames\bin\Debug\Problem10_PrintNames.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem10_PrintNames\obj\Debug\Problem10_PrintNames.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem10_PrintNames\obj\Debug\Problem10_PrintNames.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem10_PrintNames\bin\Debug\Problem10_PrintNames.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem10_PrintNames\obj\Debug\Problem10_PrintNames.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem10_PrintNames\obj\Debug\Problem10_PrintNames.pdb
