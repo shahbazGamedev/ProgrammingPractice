@@ -11,28 +11,6 @@ namespace MemoryGame
         private static int currentPosition;
         private static bool isExitPressed;
 
-        public static void Main()
-        {
-            Console.Title = "Memory Game";
-
-            ShowIntro();
-
-            InitializeConsole();
-
-            InitializeVars();
-
-            while (!isExitPressed)
-            {
-                Console.Clear();
-
-                PrintMenu();
-
-                KeyHandler();
-
-                Thread.Sleep(100);
-            }
-        }
-
         private static void ShowIntro()
         {
             Console.CursorVisible = false;
@@ -97,7 +75,7 @@ namespace MemoryGame
             isExitPressed = false;
         }
 
-        private static void PrintMenu()
+        private static void DrawMenu()
         {
             Console.SetCursorPosition(11, 7);
             Console.Write(mainMenu[0]);
@@ -146,7 +124,7 @@ namespace MemoryGame
             }
         }
 
-        private static void PrintHowToPlay()
+        private static void DrawHowToPlay()
         {
             Console.Clear();
 
@@ -170,7 +148,7 @@ Try doing as fewer moves as          possible!");
             Console.ReadKey();
         }
 
-        private static void PrintHighscores()
+        private static void DrawHighScores()
         {
             Console.Clear();
 
@@ -212,15 +190,37 @@ Try doing as fewer moves as          possible!");
             }
             else if (currentPosition == 1)
             {
-                PrintHowToPlay();
+                DrawHowToPlay();
             }
             else if (currentPosition == 2)
             {
-                PrintHighscores();
+                DrawHighScores();
             }
             else if (currentPosition == 3)
             {
                 isExitPressed = true;
+            }
+        }
+
+        public static void Display()
+        {
+            Console.Title = "Memory Game";
+
+            ShowIntro();
+
+            InitializeConsole();
+
+            InitializeVars();
+
+            while (!isExitPressed)
+            {
+                Console.Clear();
+
+                DrawMenu();
+
+                KeyHandler();
+
+                Thread.Sleep(100);
             }
         }
     }
