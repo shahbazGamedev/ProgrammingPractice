@@ -14,7 +14,7 @@ class GenericMethods
         Console.WriteLine("Product: {0}\n", Product(1.3453, 2, 3, 4.4353453535, 5, 6));
     }
 
-    public static T Min<T>(params T[] numbers)
+    private static T Min<T>(params T[] numbers)
     {
         dynamic min = numbers[0];
         for (int i = 0; i < numbers.Length; i++)
@@ -27,7 +27,7 @@ class GenericMethods
         return min;
     }
 
-    public static T Max<T>(params T[] numbers)
+    private static T Max<T>(params T[] numbers)
     {
         dynamic max = numbers[0];
         for (int i = 0; i < numbers.Length; i++)
@@ -40,7 +40,7 @@ class GenericMethods
         return max;
     }
 
-    public static T Average<T>(params T[] numbers)
+    private static T Average<T>(params T[] numbers)
     {
         dynamic sum = 0;
         for (int i = 0; i < numbers.Length; i++)
@@ -50,7 +50,7 @@ class GenericMethods
         return sum / numbers.Length;
     }
 
-    public static T Sum<T>(params T[] numbers)
+    private static T Sum<T>(params T[] numbers)
     {
         dynamic sum = 0;
         for (int i = 0; i < numbers.Length; i++)
@@ -60,7 +60,7 @@ class GenericMethods
         return sum;
     }
 
-    public static T Product<T>(params T[] numbers)
+    private static T Product<T>(params T[] numbers)
     {
         dynamic product = 1;
         for (int i = 0; i < numbers.Length; i++)

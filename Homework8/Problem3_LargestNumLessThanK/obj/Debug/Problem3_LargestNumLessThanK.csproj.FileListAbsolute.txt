@@ -1,6 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem3_LargestNumLessThanK\bin\Debug\Problem3_LargestNumLessThanK.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem3_LargestNumLessThanK\obj\Debug\Problem3_LargestNumLessThanK.csprojResolveAssemblyReference.cache
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem3_LargestNumLessThanK\bin\Debug\Problem3_LargestNumLessThanK.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem3_LargestNumLessThanK\bin\Debug\Problem3_LargestNumLessThanK.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem3_LargestNumLessThanK\obj\Debug\Problem3_LargestNumLessThanK.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework8\Problem3_LargestNumLessThanK\obj\Debug\Problem3_LargestNumLessThanK.pdb

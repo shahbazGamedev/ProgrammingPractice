@@ -26,7 +26,7 @@ class Combinations
 
         Console.WriteLine();
 
-        string subset = "";
+        string subset;
         int lenCounter = 0;
         int maxSubsets = (int)Math.Pow(2, N);
         

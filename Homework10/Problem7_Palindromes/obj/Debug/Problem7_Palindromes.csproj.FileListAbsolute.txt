@@ -4,3 +4,6 @@ C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem7_Palindromes\obj\Debug\Problem7_Palindromes.csprojResolveAssemblyReference.cache
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem7_Palindromes\obj\Debug\Problem7_Palindromes.exe
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem7_Palindromes\obj\Debug\Problem7_Palindromes.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem7_Palindromes\bin\Debug\Problem7_Palindromes.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem7_Palindromes\obj\Debug\Problem7_Palindromes.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem7_Palindromes\obj\Debug\Problem7_Palindromes.pdb

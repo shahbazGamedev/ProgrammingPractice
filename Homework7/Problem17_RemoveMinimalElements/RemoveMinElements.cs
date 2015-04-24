@@ -11,7 +11,7 @@ class RemoveMinElements
 {
     static void Main()
     {
-        Console.WriteLine("Input 10 numbers on a single line (separate with a COMMA)");
+        Console.WriteLine("Input 10 numbers on a single line (separate with a COMMA):");
 
         string tmp = Console.ReadLine();
 

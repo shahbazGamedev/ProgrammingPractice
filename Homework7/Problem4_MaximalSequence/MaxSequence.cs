@@ -8,7 +8,7 @@ class MaxSequence
 {
     static void Main()
     {
-        Console.WriteLine("Input ten numbers on a single line (separate with a comma):");
+        Console.WriteLine("Input ten numbers on a single line (separate with a COMMA):");
 
         string input = Console.ReadLine();
 

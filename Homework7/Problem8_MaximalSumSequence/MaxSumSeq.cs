@@ -1,6 +1,5 @@
 ﻿// Write a program that finds the sequence of maximal sum in given array.
 // Example: {2, 3, -6, -1, 2, -1, 6, 4, -8, 8} -> {2, -1, 6, 4}
-// Can you do it with only one loop (with single scan through the elements of the array)?
 
 using System;
 using System.Text;
@@ -15,7 +14,7 @@ class MaxSumSeq
 
         int[] numbers = new int[numberOfElements];
 
-        Console.WriteLine("Input {0} numbers on a single line (seperate with a COMMA)", numberOfElements);
+        Console.WriteLine("Input {0} numbers on a single line (seperate with a COMMA):", numberOfElements);
 
         string tmp = Console.ReadLine();
         for (int i = 0; i < numberOfElements; i++)

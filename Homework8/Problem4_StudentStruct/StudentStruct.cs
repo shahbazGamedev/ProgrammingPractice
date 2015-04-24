@@ -3,6 +3,7 @@
 // ID, Name, Name (reverse), Age, Score, Name Length and (first by Gender and then by Name).
 
 using System;
+using System.Collections.Generic;
 using System.IO;
 
 class StudentStruct
@@ -18,7 +19,7 @@ class StudentStruct
 
     static void Main()
     {
-        Student[] ThirdGrade = new Student[10];
+        Student[] thirdGrade = new Student[10];
 
         string[] data = File.ReadAllLines("StudentsInfo.txt");
 
@@ -26,71 +27,117 @@ class StudentStruct
         int currentLine = 0;
         while (currentLine < data.Length)
         {
-            ThirdGrade[currentStudent].ID = data[currentLine];
+            thirdGrade[currentStudent].ID = data[currentLine];
             currentLine++;
 
-            ThirdGrade[currentStudent].name = data[currentLine];
+            thirdGrade[currentStudent].name = data[currentLine];
             currentLine++;
 
-            ThirdGrade[currentStudent].age = int.Parse(data[currentLine]);
+            thirdGrade[currentStudent].age = int.Parse(data[currentLine]);
             currentLine++;
 
-            ThirdGrade[currentStudent].gender = char.Parse(data[currentLine]);
+            thirdGrade[currentStudent].gender = char.Parse(data[currentLine]);
             currentLine++;
 
-            ThirdGrade[currentStudent].score = int.Parse(data[currentLine]);
+            thirdGrade[currentStudent].score = int.Parse(data[currentLine]);
             currentLine++;
 
             currentStudent++;
         }
 
-        Console.WriteLine("ORIGINAL SORT");
-        PrintStudentData(ref ThirdGrade);
+        Console.WriteLine("ORIGINAL ORDER");
+        PrintStudentData(thirdGrade);
 
         Console.WriteLine("ID SORT");
-        Array.Sort(ThirdGrade, (x, y) => x.ID.CompareTo(y.ID));
-        PrintStudentData(ref ThirdGrade);
+        Array.Sort(thirdGrade, (x, y) => x.ID.CompareTo(y.ID));
+        PrintStudentData(thirdGrade);
 
         Console.WriteLine("NAME SORT");
-        Array.Sort(ThirdGrade, (x, y) => x.name.CompareTo(y.name));
-        PrintStudentData(ref ThirdGrade);
+        Array.Sort(thirdGrade, (x, y) => x.name.CompareTo(y.name));
+        PrintStudentData(thirdGrade);
 
         Console.WriteLine("NAME REVERSE SORT");
-        Array.Sort(ThirdGrade, (x, y) => y.name.CompareTo(x.name));
-        PrintStudentData(ref ThirdGrade);
+        Array.Sort(thirdGrade, (x, y) => y.name.CompareTo(x.name));
+        PrintStudentData(thirdGrade);
 
         Console.WriteLine("AGE SORT");
-        Array.Sort(ThirdGrade, (x, y) => x.age.CompareTo(y.age));
-        PrintStudentData(ref ThirdGrade);
+        Array.Sort(thirdGrade, (x, y) => x.age.CompareTo(y.age));
+        PrintStudentData(thirdGrade);
 
         Console.WriteLine("SCORE SORT");
-        Array.Sort(ThirdGrade, (x, y) => x.score.CompareTo(y.score));
-        PrintStudentData(ref ThirdGrade);
+        Array.Sort(thirdGrade, (x, y) => x.score.CompareTo(y.score));
+        PrintStudentData(thirdGrade);
 
         Console.WriteLine("NAME LENGTH SORT");
-        Array.Sort(ThirdGrade, (x, y) => x.name.Length.CompareTo(y.name.Length));
-        PrintStudentData(ref ThirdGrade);
+        Array.Sort(thirdGrade, (x, y) => x.name.Length.CompareTo(y.name.Length));
+        PrintStudentData(thirdGrade);
 
-        // TODO:
         Console.WriteLine("GENDER AND NAME SORT");
-        
-        
+        SortByGenderAndName(thirdGrade);
     }
 
-    static void PrintStudentData(ref Student[] studentsArray)
+    private static void PrintStudentData(Student[] students)
     {
-        for (int i = 0; i < studentsArray.Length; i++)
+        for (int i = 0; i < students.Length; i++)
         {
             Console.WriteLine(new string('-', 10));
 
-            Console.WriteLine(studentsArray[i].ID);
-            Console.WriteLine(studentsArray[i].name);
-            Console.WriteLine(studentsArray[i].age);
-            Console.WriteLine(studentsArray[i].gender);
-            Console.WriteLine(studentsArray[i].score);
+            Console.WriteLine(students[i].ID);
+            Console.WriteLine(students[i].name);
+            Console.WriteLine(students[i].age);
+            Console.WriteLine(students[i].gender);
+            Console.WriteLine(students[i].score);
         }
 
-        Console.WriteLine("\n\n");
+        Console.WriteLine("\n");
+    }
+
+    private static void SortByGenderAndName(Student[] students)
+    {
+        int maleStudentCounter = 0;
+        int femaleStudentCounter = 0;
+
+        for (int i = 0; i < students.Length; i++)
+        {
+            if (students[i].gender == 'm')
+            {
+                maleStudentCounter++;
+            }
+        }
+
+        Student[] maleStudents = new Student[maleStudentCounter];
+        Student[] femaleStudents = new Student[students.Length - maleStudentCounter];
+
+        maleStudentCounter = 0;
+
+        for (int i = 0; i < students.Length; i++)
+        {
+            if (students[i].gender == 'm')
+            {
+                maleStudents[maleStudentCounter].ID = students[i].ID;
+                maleStudents[maleStudentCounter].name = students[i].name;
+                maleStudents[maleStudentCounter].age = students[i].age;
+                maleStudents[maleStudentCounter].gender = students[i].gender;
+                maleStudents[maleStudentCounter].score = students[i].score;
+
+                maleStudentCounter++;
+            }
+            else if (students[i].gender == 'f')
+            {
+                femaleStudents[femaleStudentCounter].ID = students[i].ID;
+                femaleStudents[femaleStudentCounter].name = students[i].name;
+                femaleStudents[femaleStudentCounter].age = students[i].age;
+                femaleStudents[femaleStudentCounter].gender = students[i].gender;
+                femaleStudents[femaleStudentCounter].score = students[i].score;
+
+                femaleStudentCounter++;
+            }
+        }
+
+        Array.Sort(maleStudents, (x, y) => x.name.CompareTo(y.name));
+        Array.Sort(femaleStudents, (x, y) => x.name.CompareTo(y.name));
+
+        PrintStudentData(maleStudents);
+        PrintStudentData(femaleStudents);
     }
 }
-

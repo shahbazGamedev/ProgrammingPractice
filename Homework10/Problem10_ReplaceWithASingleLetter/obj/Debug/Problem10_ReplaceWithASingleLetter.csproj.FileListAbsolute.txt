@@ -3,3 +3,6 @@ C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem10_ReplaceWithASingleLetter\bin\Debug\Problem10_ReplaceWithASingleLetter.pdb
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem10_ReplaceWithASingleLetter\obj\Debug\Problem10_ReplaceWithASingleLetter.exe
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem10_ReplaceWithASingleLetter\obj\Debug\Problem10_ReplaceWithASingleLetter.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem10_ReplaceWithASingleLetter\bin\Debug\Problem10_ReplaceWithASingleLetter.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem10_ReplaceWithASingleLetter\obj\Debug\Problem10_ReplaceWithASingleLetter.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem10_ReplaceWithASingleLetter\obj\Debug\Problem10_ReplaceWithASingleLetter.pdb

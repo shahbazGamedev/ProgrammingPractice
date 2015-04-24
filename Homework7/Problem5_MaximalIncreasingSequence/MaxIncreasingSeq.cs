@@ -27,7 +27,7 @@ class MaxIncreasingSeq
 
         for (int i = 0; i < numbers.Length - 1; i++)
         {
-            if (numbers[i] + 1 == numbers[i + 1]) // the only difference    
+            if (numbers[i] + 1 == numbers[i + 1]) // the only difference from the previous problem
             {
                 currentSequence++;
             }

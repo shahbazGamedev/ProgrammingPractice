@@ -4,3 +4,6 @@ C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem1_ElementTimesIndex\obj\Debug\Problem1_ElementTimesIndex.csprojResolveAssemblyReference.cache
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem1_ElementTimesIndex\obj\Debug\Problem1_ElementTimesIndex.exe
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem1_ElementTimesIndex\obj\Debug\Problem1_ElementTimesIndex.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem1_ElementTimesIndex\bin\Debug\Problem1_ElementTimesIndex.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem1_ElementTimesIndex\obj\Debug\Problem1_ElementTimesIndex.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem1_ElementTimesIndex\obj\Debug\Problem1_ElementTimesIndex.pdb

@@ -4,3 +4,6 @@ C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem15_SubsetOfGivenSum\obj\Debug\Problem15_SubsetOfGivenSum.csprojResolveAssemblyReference.cache
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem15_SubsetOfGivenSum\obj\Debug\Problem15_SubsetOfGivenSum.exe
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem15_SubsetOfGivenSum\obj\Debug\Problem15_SubsetOfGivenSum.pdb
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem15_SubsetOfGivenSum\bin\Debug\Problem15_SubsetOfGivenSum.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem15_SubsetOfGivenSum\obj\Debug\Problem15_SubsetOfGivenSum.exe
+C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem15_SubsetOfGivenSum\obj\Debug\Problem15_SubsetOfGivenSum.pdb

@@ -44,7 +44,7 @@ class SequenceOfGivenSum
                 }
             }
 
-            if (generatedSum == S) // exit the first for-loop
+            if (generatedSum == S) // exit the first for loop
             {
                 doesSumExist = true;
                 break;

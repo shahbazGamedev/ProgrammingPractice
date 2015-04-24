@@ -12,7 +12,6 @@ class CompareArrays
         int[] array1 = new int[arraysLength];
         int[] array2 = new int[arraysLength];
 
-        // so there isn't a need to repeat the same code:
         ReadElementsFromConsole(array1, arraysLength);
         Console.WriteLine();
         ReadElementsFromConsole(array2, arraysLength);

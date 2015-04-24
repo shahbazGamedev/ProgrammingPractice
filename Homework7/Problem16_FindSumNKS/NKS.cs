@@ -9,7 +9,6 @@ class NKS
 {
     static void Main()
     {
-
         Console.Write("S = ");
         int S = int.Parse(Console.ReadLine());
 
