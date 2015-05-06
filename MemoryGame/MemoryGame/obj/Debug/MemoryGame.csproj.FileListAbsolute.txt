@@ -10,3 +10,9 @@ C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\MemoryGa
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
 C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\Тодор\Documents\Visual Studio 2015\Projects\ZaribaAcademy\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Тодор\Documents\Visual Studio 2015\Projects\ZaribaAcademy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Тодор\Documents\Visual Studio 2015\Projects\ZaribaAcademy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\Тодор\Documents\Visual Studio 2015\Projects\ZaribaAcademy\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Тодор\Documents\Visual Studio 2015\Projects\ZaribaAcademy\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Тодор\Documents\Visual Studio 2015\Projects\ZaribaAcademy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache

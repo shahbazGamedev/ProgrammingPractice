@@ -32,23 +32,23 @@ namespace MemoryGame
        | |__| | (_| | | | | | |  __/       
         \_____|\__,_|_| |_| |_|\___|       ");
 
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(@"
-                 ___           
-                | _ )_  _ 
-                | _ | || |
-                |___/\_, |
-                     |__/");
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(@"
-    _____ _          _                  
-   |_   _| |_  ___  | |   ___ _ _  __ _ 
-     | | | ' \/ -_) | |__/ _ | ' \/ _` |
-     |_| |_||_\___| |____\___|_||_\__, |
-           |_   ____ __ _ _ __    |___/ 
-             | |/ -_/ _` | '  \         
-             |_|\___\__,_|_|_|_|   
-     ");
+            //          Console.ForegroundColor = ConsoleColor.Red;
+            //          Console.WriteLine(@"
+            //               ___           
+            //              | _ )_  _ 
+            //              | _ | || |
+            //              |___/\_, |
+            //                   |__/");
+            //          Console.ForegroundColor = ConsoleColor.Red;
+            //          Console.WriteLine(@"
+            //  _____ _          _                  
+            // |_   _| |_  ___  | |   ___ _ _  __ _ 
+            //   | | | ' \/ -_) | |__/ _ | ' \/ _` |
+            //   |_| |_||_\___| |____\___|_||_\__, |
+            //         |_   ____ __ _ _ __    |___/ 
+            //           | |/ -_/ _` | '  \         
+            //           |_|\___\__,_|_|_|_|   
+            //   ");
             Thread.Sleep(3500);
         }
 
@@ -157,7 +157,7 @@ Try doing as fewer moves as          possible!");
 
             if (!File.Exists("highscores.txt"))
             {
-                File.Create("highscores.txt");   
+                File.Create("highscores.txt");
             }
             else if (new FileInfo("highscores.txt").Length == 0)
             {
