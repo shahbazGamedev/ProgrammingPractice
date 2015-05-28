@@ -1,6 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem1_OneToN\bin\Debug\Problem1_OneToN.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem1_OneToN\bin\Debug\Problem1_OneToN.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem1_OneToN\bin\Debug\Problem1_OneToN.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem1_OneToN\obj\Debug\Problem1_OneToN.csprojResolveAssemblyReference.cache
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem1_OneToN\obj\Debug\Problem1_OneToN.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem1_OneToN\obj\Debug\Problem1_OneToN.pdb

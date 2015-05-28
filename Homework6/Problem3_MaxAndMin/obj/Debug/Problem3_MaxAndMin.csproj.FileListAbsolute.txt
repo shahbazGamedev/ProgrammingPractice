@@ -1,5 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem3_MaxAndMin\bin\Debug\Problem3_MaxAndMin.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem3_MaxAndMin\bin\Debug\Problem3_MaxAndMin.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem3_MaxAndMin\bin\Debug\Problem3_MaxAndMin.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem3_MaxAndMin\obj\Debug\Problem3_MaxAndMin.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem3_MaxAndMin\obj\Debug\Problem3_MaxAndMin.pdb

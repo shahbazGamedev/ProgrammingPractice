@@ -1,9 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem5_MaximalIncreasingSequence\bin\Debug\Problem5_MaximalIncreasingSequence.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem5_MaximalIncreasingSequence\bin\Debug\Problem5_MaximalIncreasingSequence.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem5_MaximalIncreasingSequence\bin\Debug\Problem5_MaximalIncreasingSequence.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem5_MaximalIncreasingSequence\obj\Debug\Problem5_MaximalIncreasingSequence.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem5_MaximalIncreasingSequence\obj\Debug\Problem5_MaximalIncreasingSequence.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem5_MaximalIncreasingSequence\obj\Debug\Problem5_MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem5_MaximalIncreasingSequence\bin\Debug\Problem5_MaximalIncreasingSequence.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem5_MaximalIncreasingSequence\obj\Debug\Problem5_MaximalIncreasingSequence.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem5_MaximalIncreasingSequence\obj\Debug\Problem5_MaximalIncreasingSequence.pdb

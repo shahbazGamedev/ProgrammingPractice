@@ -1,5 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem2_DivideByTwoThreeAndFive\bin\Debug\Problem2_DivideByTwoThreeAndFive.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem2_DivideByTwoThreeAndFive\bin\Debug\Problem2_DivideByTwoThreeAndFive.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem2_DivideByTwoThreeAndFive\bin\Debug\Problem2_DivideByTwoThreeAndFive.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem2_DivideByTwoThreeAndFive\obj\Debug\Problem2_DivideByTwoThreeAndFive.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem2_DivideByTwoThreeAndFive\obj\Debug\Problem2_DivideByTwoThreeAndFive.pdb

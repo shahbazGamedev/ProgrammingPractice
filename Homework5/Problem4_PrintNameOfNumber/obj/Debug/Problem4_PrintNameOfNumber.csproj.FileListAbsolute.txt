@@ -1,5 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem4_PrintNameOfNumber\bin\Debug\Problem4_PrintNameOfNumber.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem4_PrintNameOfNumber\bin\Debug\Problem4_PrintNameOfNumber.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem4_PrintNameOfNumber\bin\Debug\Problem4_PrintNameOfNumber.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem4_PrintNameOfNumber\obj\Debug\Problem4_PrintNameOfNumber.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem4_PrintNameOfNumber\obj\Debug\Problem4_PrintNameOfNumber.pdb

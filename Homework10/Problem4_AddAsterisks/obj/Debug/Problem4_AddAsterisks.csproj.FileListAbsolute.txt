@@ -1,8 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem4_AddAsterisks\bin\Debug\Problem4_AddAsterisks.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem4_AddAsterisks\bin\Debug\Problem4_AddAsterisks.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem4_AddAsterisks\bin\Debug\Problem4_AddAsterisks.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem4_AddAsterisks\obj\Debug\Problem4_AddAsterisks.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework10\Problem4_AddAsterisks\obj\Debug\Problem4_AddAsterisks.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem4_AddAsterisks\bin\Debug\Problem4_AddAsterisks.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem4_AddAsterisks\obj\Debug\Problem4_AddAsterisks.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework10\Problem4_AddAsterisks\obj\Debug\Problem4_AddAsterisks.pdb

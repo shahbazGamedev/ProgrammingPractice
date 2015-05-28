@@ -1,6 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem1_OddOrEven\bin\Debug\Problem1_OddOrEven.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem1_OddOrEven\bin\Debug\Problem1_OddOrEven.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem1_OddOrEven\bin\Debug\Problem1_OddOrEven.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem1_OddOrEven\obj\Debug\Problem1_OddOrEven.csprojResolveAssemblyReference.cache
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem1_OddOrEven\obj\Debug\Problem1_OddOrEven.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem1_OddOrEven\obj\Debug\Problem1_OddOrEven.pdb

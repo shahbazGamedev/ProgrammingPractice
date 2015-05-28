@@ -1,9 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem4_CalculateArithmetic\bin\Debug\Problem4_CalculateArithmetic.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem4_CalculateArithmetic\bin\Debug\Problem4_CalculateArithmetic.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem4_CalculateArithmetic\bin\Debug\Problem4_CalculateArithmetic.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem4_CalculateArithmetic\obj\Debug\Problem4_CalculateArithmetic.csprojResolveAssemblyReference.cache
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem4_CalculateArithmetic\obj\Debug\Problem4_CalculateArithmetic.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem4_CalculateArithmetic\obj\Debug\Problem4_CalculateArithmetic.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework9\Problem4_CalculateArithmetic\bin\Debug\Problem4_CalculateArithmetic.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework9\Problem4_CalculateArithmetic\obj\Debug\Problem4_CalculateArithmetic.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework9\Problem4_CalculateArithmetic\obj\Debug\Problem4_CalculateArithmetic.pdb

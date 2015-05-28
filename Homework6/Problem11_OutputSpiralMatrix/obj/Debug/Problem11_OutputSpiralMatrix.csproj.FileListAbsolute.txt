@@ -1,6 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem11_OutputSpiralMatrix\bin\Debug\Problem11_OutputSpiralMatrix.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem11_OutputSpiralMatrix\bin\Debug\Problem11_OutputSpiralMatrix.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem11_OutputSpiralMatrix\bin\Debug\Problem11_OutputSpiralMatrix.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem11_OutputSpiralMatrix\obj\Debug\Problem11_OutputSpiralMatrix.csprojResolveAssemblyReference.cache
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem11_OutputSpiralMatrix\obj\Debug\Problem11_OutputSpiralMatrix.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem11_OutputSpiralMatrix\obj\Debug\Problem11_OutputSpiralMatrix.pdb

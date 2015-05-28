@@ -1,6 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem7_Fibonacci\bin\Debug\Problem7_Fibonacci.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem7_Fibonacci\bin\Debug\Problem7_Fibonacci.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem7_Fibonacci\bin\Debug\Problem7_Fibonacci.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem7_Fibonacci\obj\Debug\Problem7_Fibonacci.csprojResolveAssemblyReference.cache
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem7_Fibonacci\obj\Debug\Problem7_Fibonacci.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem7_Fibonacci\obj\Debug\Problem7_Fibonacci.pdb

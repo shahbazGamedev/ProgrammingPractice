@@ -1,8 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem5_PrintPersonalData\bin\Debug\Problem5_PrintPersonalData.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem5_PrintPersonalData\obj\Debug\Problem5_PrintPersonalData.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem5_PrintPersonalData\obj\Debug\Problem5_PrintPersonalData.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem5_PrintPersonalData\bin\Debug\Problem5_PrintPersonalData.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem5_PrintPersonalData\obj\Debug\Problem5_PrintPersonalData.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem5_PrintPersonalData\obj\Debug\Problem5_PrintPersonalData.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem5_PrintPersonalData\bin\Debug\Problem5_PrintPersonalData.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem5_PrintPersonalData\bin\Debug\Problem5_PrintPersonalData.pdb

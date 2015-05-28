@@ -1,6 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem5_CheckSecondBit\bin\Debug\Problem5_CheckSecondBit.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem5_CheckSecondBit\bin\Debug\Problem5_CheckSecondBit.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem5_CheckSecondBit\bin\Debug\Problem5_CheckSecondBit.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem5_CheckSecondBit\obj\Debug\Problem5_CheckSecondBit.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem5_CheckSecondBit\obj\Debug\Problem5_CheckSecondBit.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework5\Problem5_CheckSecondBit\obj\Debug\Problem5_CheckSecondBit.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem4_CheckThirdDigit\bin\Debug\Problem4_CheckThirdDigit.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem4_CheckThirdDigit\bin\Debug\Problem4_CheckThirdDigit.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem4_CheckThirdDigit\bin\Debug\Problem4_CheckThirdDigit.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem4_CheckThirdDigit\obj\Debug\Problem4_CheckThirdDigit.csprojResolveAssemblyReference.cache
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem4_CheckThirdDigit\obj\Debug\Problem4_CheckThirdDigit.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework4\Problem4_CheckThirdDigit\obj\Debug\Problem4_CheckThirdDigit.pdb

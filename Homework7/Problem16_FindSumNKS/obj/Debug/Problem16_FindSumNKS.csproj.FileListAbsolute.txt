@@ -1,8 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem16_FindSumNKS\bin\Debug\Problem16_FindSumNKS.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem16_FindSumNKS\bin\Debug\Problem16_FindSumNKS.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem16_FindSumNKS\bin\Debug\Problem16_FindSumNKS.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem16_FindSumNKS\obj\Debug\Problem16_FindSumNKS.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem16_FindSumNKS\obj\Debug\Problem16_FindSumNKS.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem16_FindSumNKS\bin\Debug\Problem16_FindSumNKS.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem16_FindSumNKS\obj\Debug\Problem16_FindSumNKS.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem16_FindSumNKS\obj\Debug\Problem16_FindSumNKS.pdb

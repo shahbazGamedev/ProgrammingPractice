@@ -1,6 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem10_OutputMatrix\bin\Debug\Problem10_OutputMatrix.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem10_OutputMatrix\bin\Debug\Problem10_OutputMatrix.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem10_OutputMatrix\bin\Debug\Problem10_OutputMatrix.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem10_OutputMatrix\obj\Debug\Problem10_OutputMatrix.csprojResolveAssemblyReference.cache
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem10_OutputMatrix\obj\Debug\Problem10_OutputMatrix.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem10_OutputMatrix\obj\Debug\Problem10_OutputMatrix.pdb

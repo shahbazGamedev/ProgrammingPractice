@@ -1,8 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem8_56ToThePowerOf3\bin\Debug\Problem8_56ToThePowerOf3.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem8_56ToThePowerOf3\bin\Debug\Problem8_56ToThePowerOf3.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem8_56ToThePowerOf3\bin\Debug\Problem8_56ToThePowerOf3.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem8_56ToThePowerOf3\obj\Debug\Problem8_56ToThePowerOf3.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem8_56ToThePowerOf3\obj\Debug\Problem8_56ToThePowerOf3.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem8_56ToThePowerOf3\bin\Debug\Problem8_56ToThePowerOf3.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem8_56ToThePowerOf3\obj\Debug\Problem8_56ToThePowerOf3.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem8_56ToThePowerOf3\obj\Debug\Problem8_56ToThePowerOf3.pdb

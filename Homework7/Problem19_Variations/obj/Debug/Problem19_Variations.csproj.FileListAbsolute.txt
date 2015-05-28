@@ -1,9 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem19_Variations\bin\Debug\Problem19_Variations.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem19_Variations\bin\Debug\Problem19_Variations.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem19_Variations\bin\Debug\Problem19_Variations.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem19_Variations\obj\Debug\Problem19_Variations.csprojResolveAssemblyReference.cache
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem19_Variations\obj\Debug\Problem19_Variations.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem19_Variations\obj\Debug\Problem19_Variations.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem19_Variations\bin\Debug\Problem19_Variations.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem19_Variations\obj\Debug\Problem19_Variations.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem19_Variations\obj\Debug\Problem19_Variations.pdb

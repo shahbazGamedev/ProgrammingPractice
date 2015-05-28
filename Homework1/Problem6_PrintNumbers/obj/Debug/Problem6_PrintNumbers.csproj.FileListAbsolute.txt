@@ -1,8 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem6_PrintNumbers\bin\Debug\Problem6_PrintNumbers.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem6_PrintNumbers\bin\Debug\Problem6_PrintNumbers.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem6_PrintNumbers\bin\Debug\Problem6_PrintNumbers.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem6_PrintNumbers\obj\Debug\Problem6_PrintNumbers.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework1\Problem6_PrintNumbers\obj\Debug\Problem6_PrintNumbers.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem6_PrintNumbers\bin\Debug\Problem6_PrintNumbers.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem6_PrintNumbers\obj\Debug\Problem6_PrintNumbers.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework1\Problem6_PrintNumbers\obj\Debug\Problem6_PrintNumbers.pdb

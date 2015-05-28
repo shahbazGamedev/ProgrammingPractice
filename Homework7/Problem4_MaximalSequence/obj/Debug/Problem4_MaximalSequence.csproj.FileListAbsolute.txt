@@ -1,9 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem4_MaximalSequence\bin\Debug\Problem4_MaximalSequence.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem4_MaximalSequence\obj\Debug\Problem4_MaximalSequence.csprojResolveAssemblyReference.cache
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem4_MaximalSequence\bin\Debug\Problem4_MaximalSequence.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem4_MaximalSequence\bin\Debug\Problem4_MaximalSequence.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem4_MaximalSequence\obj\Debug\Problem4_MaximalSequence.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem4_MaximalSequence\obj\Debug\Problem4_MaximalSequence.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem4_MaximalSequence\bin\Debug\Problem4_MaximalSequence.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem4_MaximalSequence\obj\Debug\Problem4_MaximalSequence.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem4_MaximalSequence\obj\Debug\Problem4_MaximalSequence.pdb

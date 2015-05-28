@@ -1,8 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem2_CompareArrays\bin\Debug\Problem2_CompareArrays.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem2_CompareArrays\bin\Debug\Problem2_CompareArrays.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem2_CompareArrays\bin\Debug\Problem2_CompareArrays.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem2_CompareArrays\obj\Debug\Problem2_CompareArrays.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem2_CompareArrays\obj\Debug\Problem2_CompareArrays.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem2_CompareArrays\bin\Debug\Problem2_CompareArrays.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem2_CompareArrays\obj\Debug\Problem2_CompareArrays.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem2_CompareArrays\obj\Debug\Problem2_CompareArrays.pdb

@@ -1,5 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem4_GetNNumbers\bin\Debug\Problem4_GetNNumbers.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem4_GetNNumbers\bin\Debug\Problem4_GetNNumbers.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem4_GetNNumbers\bin\Debug\Problem4_GetNNumbers.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem4_GetNNumbers\obj\Debug\Problem4_GetNNumbers.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework3\Problem4_GetNNumbers\obj\Debug\Problem4_GetNNumbers.pdb

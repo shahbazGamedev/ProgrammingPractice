@@ -1,8 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem3_ReverseDigits\bin\Debug\Problem3_ReverseDigits.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem3_ReverseDigits\bin\Debug\Problem3_ReverseDigits.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem3_ReverseDigits\bin\Debug\Problem3_ReverseDigits.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem3_ReverseDigits\obj\Debug\Problem3_ReverseDigits.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework9\Problem3_ReverseDigits\obj\Debug\Problem3_ReverseDigits.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework9\Problem3_ReverseDigits\bin\Debug\Problem3_ReverseDigits.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework9\Problem3_ReverseDigits\obj\Debug\Problem3_ReverseDigits.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework9\Problem3_ReverseDigits\obj\Debug\Problem3_ReverseDigits.pdb

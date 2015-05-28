@@ -1,8 +1,0 @@
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem12_AlphabetArray\bin\Debug\Problem12_AlphabetArray.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem12_AlphabetArray\bin\Debug\Problem12_AlphabetArray.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem12_AlphabetArray\bin\Debug\Problem12_AlphabetArray.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem12_AlphabetArray\obj\Debug\Problem12_AlphabetArray.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework7\Problem12_AlphabetArray\obj\Debug\Problem12_AlphabetArray.pdb
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem12_AlphabetArray\bin\Debug\Problem12_AlphabetArray.exe.config
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem12_AlphabetArray\obj\Debug\Problem12_AlphabetArray.exe
-C:\Users\Тодор\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Homework7\Problem12_AlphabetArray\obj\Debug\Problem12_AlphabetArray.pdb

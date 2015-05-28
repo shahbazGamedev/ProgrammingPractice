@@ -1,6 +1,0 @@
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem5_FactNFactKPart2\bin\Debug\Problem5_FactNFactKPart2.exe.config
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem5_FactNFactKPart2\bin\Debug\Problem5_FactNFactKPart2.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem5_FactNFactKPart2\bin\Debug\Problem5_FactNFactKPart2.pdb
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem5_FactNFactKPart2\obj\Debug\Problem5_FactNFactKPart2.csprojResolveAssemblyReference.cache
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem5_FactNFactKPart2\obj\Debug\Problem5_FactNFactKPart2.exe
-C:\Users\Todor\Documents\Visual Studio 2013\Projects\ZaribaAcademy\Module1\Homework6\Problem5_FactNFactKPart2\obj\Debug\Problem5_FactNFactKPart2.pdb
