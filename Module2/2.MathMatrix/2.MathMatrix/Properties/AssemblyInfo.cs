@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConsoleClassGame")]
+[assembly: AssemblyTitle("2.MathMatrix")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleClassGame")]
+[assembly: AssemblyProduct("2.MathMatrix")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6fbfbe06-e90f-4fce-aaa0-893dcdc29fdf")]
+[assembly: Guid("b65e43a2-6892-43ce-a124-2973d9536b5e")]
 
 // Version information for an assembly consists of the following four values:
 //
