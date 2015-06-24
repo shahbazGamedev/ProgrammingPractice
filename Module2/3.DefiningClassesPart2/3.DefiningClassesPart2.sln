@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Fraction", "1.Fraction\1.Fraction.csproj", "{AC544E8C-FDF1-4CAF-B107-B851D3B4A031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CustomGenericList", "3.CustomGenericList\3.CustomGenericList.csproj", "{4BD1407F-71B7-4EA3-96A7-9753D5297237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MathMatrix", "2.MathMatrix\2.MathMatrix.csproj", "{243741A8-B883-4D9B-A095-AD557CB0C828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC544E8C-FDF1-4CAF-B107-B851D3B4A031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC544E8C-FDF1-4CAF-B107-B851D3B4A031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC544E8C-FDF1-4CAF-B107-B851D3B4A031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC544E8C-FDF1-4CAF-B107-B851D3B4A031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD1407F-71B7-4EA3-96A7-9753D5297237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD1407F-71B7-4EA3-96A7-9753D5297237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD1407F-71B7-4EA3-96A7-9753D5297237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD1407F-71B7-4EA3-96A7-9753D5297237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243741A8-B883-4D9B-A095-AD557CB0C828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243741A8-B883-4D9B-A095-AD557CB0C828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243741A8-B883-4D9B-A095-AD557CB0C828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243741A8-B883-4D9B-A095-AD557CB0C828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
