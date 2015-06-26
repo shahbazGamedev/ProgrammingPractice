@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_1.SchoolSystem</RootNamespace>
     <AssemblyName>1.SchoolSystem</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,7 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Discipline.cs" />
-    <Compile Include="Classes\EntryPoint.cs" />
+    <Compile Include="EntryPoint.cs" />
     <Compile Include="Classes\Person.cs" />
     <Compile Include="Classes\SchoolClass.cs" />
     <Compile Include="Classes\Student.cs" />
