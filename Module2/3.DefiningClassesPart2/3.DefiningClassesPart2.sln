@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Fraction", "1.Fraction\1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CustomGenericList", "3.CustomGenericList\3.CustomGenericList.csproj", "{4BD1407F-71B7-4EA3-96A7-9753D5297237}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MathMatrix", "2.MathMatrix\2.MathMatrix.csproj", "{243741A8-B883-4D9B-A095-AD557CB0C828}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MathMatrix", "2.MathMatrix\2.MathMatrix.csproj", "{9AC6E2CA-5C22-4339-A429-98F1023F607A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{4BD1407F-71B7-4EA3-96A7-9753D5297237}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BD1407F-71B7-4EA3-96A7-9753D5297237}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BD1407F-71B7-4EA3-96A7-9753D5297237}.Release|Any CPU.Build.0 = Release|Any CPU
-		{243741A8-B883-4D9B-A095-AD557CB0C828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{243741A8-B883-4D9B-A095-AD557CB0C828}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{243741A8-B883-4D9B-A095-AD557CB0C828}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{243741A8-B883-4D9B-A095-AD557CB0C828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC6E2CA-5C22-4339-A429-98F1023F607A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC6E2CA-5C22-4339-A429-98F1023F607A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC6E2CA-5C22-4339-A429-98F1023F607A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC6E2CA-5C22-4339-A429-98F1023F607A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

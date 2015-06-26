@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SBExtension", "1.SBExtens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.LambdaDivisibleNums", "4.LambdaDivisibleNums\4.LambdaDivisibleNums.csproj", "{B4759E0B-7FCF-4490-B28D-BE5160AB30F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.StudentQueries", "3.StudentQueries\3.StudentQueries.csproj", "{8989B14F-A78D-4EB9-BEFD-AD505CF9095F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B4759E0B-7FCF-4490-B28D-BE5160AB30F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4759E0B-7FCF-4490-B28D-BE5160AB30F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4759E0B-7FCF-4490-B28D-BE5160AB30F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8989B14F-A78D-4EB9-BEFD-AD505CF9095F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8989B14F-A78D-4EB9-BEFD-AD505CF9095F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8989B14F-A78D-4EB9-BEFD-AD505CF9095F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8989B14F-A78D-4EB9-BEFD-AD505CF9095F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
