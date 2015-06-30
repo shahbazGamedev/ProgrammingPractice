@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
-
-namespace SchoolSystem
+﻿namespace SchoolSystem
 {
+    using System.Collections.Generic;
+
     public class Teacher : Person
     {
         public Teacher(string firstName, string lastName)

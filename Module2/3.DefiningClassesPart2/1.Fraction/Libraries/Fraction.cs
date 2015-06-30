@@ -137,7 +137,7 @@
 
         public override string ToString()
         {
-            string result = String.Empty();
+            string result = string.Empty;
 
             if (this.Numerator == 1 && this.Numerator == this.Denominator)
             {
