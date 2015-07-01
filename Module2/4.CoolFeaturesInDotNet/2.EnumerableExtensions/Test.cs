@@ -8,14 +8,22 @@
     {
         public static void Main()
         {
-            IList<int> numbers = new List<int>();
-            numbers.Add(5);
-            numbers.Add(15);
-            numbers.Add(7);
-            numbers.Add(2);
-            numbers.Add(8);
-            numbers.Add(50);
+            List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
 
+            var sum = numbers.Sum();
+            Console.WriteLine("Sum: " + sum);
+
+            var product = numbers.Product();
+            Console.WriteLine("Product: " + product);
+
+            var min = numbers.Min();
+            Console.WriteLine("Min: " + min);
+
+            var max = numbers.Max();
+            Console.WriteLine("Max: " + max);
+
+            var average = numbers.Average();
+            Console.WriteLine("Average: " + average);
         }
     }
 }
