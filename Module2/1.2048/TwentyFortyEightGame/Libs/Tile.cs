@@ -8,6 +8,7 @@
         public Vector2 Location { get; set; }
         public int Number { get; set; }
         public bool IsVisible { get; set; }
+        public bool isSpawnedLast { get; set; }
 
         public Tile()
         {
@@ -19,13 +20,21 @@
             this.Location = location;
             this.Number = 0;
             this.IsVisible = false;
+            this.isSpawnedLast = false;
         }
 
         public void Draw(SpriteBatch sb, SpriteFont font)
         {
             if (this.IsVisible)
             {
-                sb.DrawString(font, this.Number.ToString(), this.Location, Color.Black);
+                if (this.isSpawnedLast)
+                {
+                     sb.DrawString(font, this.Number.ToString(), this.Location, Color.Red);
+                }
+                else
+                {
+                    sb.DrawString(font, this.Number.ToString(), this.Location, Color.Black);
+                }
             }
         }
     }

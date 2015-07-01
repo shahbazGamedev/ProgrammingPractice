@@ -44,8 +44,9 @@
             int col = rng.Next(0, BOARD_SIZE);
             if (!this.Tiles[row, col].IsVisible)
             {
-                this.Tiles[row, col].IsVisible = true;
                 this.Tiles[row, col].Number = 2;
+                this.Tiles[row, col].IsVisible = true;
+                this.Tiles[row, col].isSpawnedLast = true;
             }
         }
 
@@ -143,6 +144,7 @@
                     {
                         this.Tiles[i, j].Number = tilesCopy[i, j].Number;
                         this.Tiles[i, j].IsVisible = tilesCopy[i, j].IsVisible;
+                        this.Tiles[i, j].isSpawnedLast = false;
                     }
                 }
             }
