@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlazaSmash.Controllers.States.State">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\States\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Controllers.StateController">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABQABAgAAACAAAAAAAAAAAIAABAAAAAA=</HashCode>
+      <FileName>Controllers\StateController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Models.BackgroundModel">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BackgroundModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Models.FighterModel">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGBCAEIACAAAAAQAEEIAAAECAiAAAYACIQAAAAAA=</HashCode>
+      <FileName>Models\FighterModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.BackgroundView">
+    <Position X="18.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\BackgroundView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.ViewObject">
+    <Position X="14.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAAAAwAAgAAEAAAACAAAQIAQAAAAAAAAAAA=</HashCode>
+      <FileName>Views\ViewObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Controllers.States.BattleState">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\States\BattleState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Models.ModelObject">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\ModelObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.DieView">
+    <Position X="13" Y="7" Width="1.5" />
+    <InheritanceLine Type="PlazaSmash.Views.ViewObject" ManuallyRouted="true">
+      <Path>
+        <Point X="15.75" Y="3.786" />
+        <Point X="15.75" Y="4.558" />
+        <Point X="13.75" Y="4.558" />
+        <Point X="13.75" Y="7" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\DieView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.KickView">
+    <Position X="16.5" Y="7" Width="1.5" />
+    <InheritanceLine Type="PlazaSmash.Views.ViewObject" ManuallyRouted="true">
+      <Path>
+        <Point X="15.75" Y="3.786" />
+        <Point X="15.75" Y="4.545" />
+        <Point X="17.25" Y="4.545" />
+        <Point X="17.25" Y="7" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\KickView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.MoveView">
+    <Position X="11.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\MoveView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.PunchView">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\PunchView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.StandView">
+    <Position X="14.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\StandView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.BlockView">
+    <Position X="20.25" Y="7" Width="1.5" />
+    <InheritanceLine Type="PlazaSmash.Views.ViewObject" ManuallyRouted="true">
+      <Path>
+        <Point X="15.75" Y="3.786" />
+        <Point X="15.75" Y="4.558" />
+        <Point X="21" Y="4.558" />
+        <Point X="21" Y="7" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Views\BlockView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.HitView">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\HitView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.ReversedMoveView">
+    <Position X="18" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\ReversedMoveView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Controllers.BattlegroundController" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAIAAAAQIAEAAAIACAAAARIACAAAAAAIAAAEA=</HashCode>
+      <FileName>Controllers\BattlegroundController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Controllers.CollisionController" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAABAAAAAAAAAAAAAAAAQAAAAAAAIAAAAA=</HashCode>
+      <FileName>Controllers\CollisionController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Controllers.InputController" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAQIAAAABAAAAAAAAIAAAAAEAAAAACAA=</HashCode>
+      <FileName>Controllers\InputController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Controllers.States.IntroState" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAkQAAAAAAAQAAgAAAABABoAAEIAAAAA=</HashCode>
+      <FileName>Controllers\States\IntroState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Controllers.States.MenuState" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yAAkAAJpQAACEiQAAAkAAAgAAAAAEAAABIAACABoAAA=</HashCode>
+      <FileName>Controllers\States\MenuState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Controllers.AudioController" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAgASSACAQAQAACAAAAAhAQABAAAQgBABAAEiAAEA=</HashCode>
+      <FileName>Controllers\AudioController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlazaSmash.Views.HealthView" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Views\HealthView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
