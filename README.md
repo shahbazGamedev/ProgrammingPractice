@@ -1,4 +1,4 @@
-Course was taken from March to September 2015
+Taken March-September 2015
 
 #Modules:
 
