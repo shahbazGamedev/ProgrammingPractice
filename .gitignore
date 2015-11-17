@@ -4,6 +4,6 @@ bin
 obj
 .idea
 .vscode
-.sln
-.csproj
+*.sln
+*.csproj
 App.config
