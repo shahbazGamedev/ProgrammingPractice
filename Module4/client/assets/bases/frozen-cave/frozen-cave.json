@@ -1,0 +1,611 @@
+{
+	"frames": {
+		"frozen-cave": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 297,
+				"h": 245
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 297,
+				"h": 245
+			},
+			"sourceSize": {
+				"w": 297,
+				"h": 245
+			}
+		},
+		"hedgehog-hit000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 0,
+				"y": 327,
+				"w": 66,
+				"h": 64
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 64
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 64
+			}
+		},
+		"hedgehog-stand000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 240,
+				"y": 398,
+				"w": 55,
+				"h": 53
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 59,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 59,
+				"h": 54
+			}
+		},
+		"hedgehog-stand001": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 61,
+				"y": 393,
+				"w": 59,
+				"h": 53
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 59,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 59,
+				"h": 54
+			}
+		},
+		"hedgehog-stand002": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 68,
+				"y": 327,
+				"w": 58,
+				"h": 52
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 2,
+				"w": 59,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 59,
+				"h": 54
+			}
+		},
+		"hedgehog-stand003": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 0,
+				"y": 393,
+				"w": 59,
+				"h": 53
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 59,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 59,
+				"h": 54
+			}
+		},
+		"hedgehog-stand004": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 128,
+				"y": 320,
+				"w": 58,
+				"h": 53
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 1,
+				"w": 59,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 59,
+				"h": 54
+			}
+		},
+		"hedgehog-stand005": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 297,
+				"y": 399,
+				"w": 55,
+				"h": 54
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 59,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 59,
+				"h": 54
+			}
+		},
+		"goblin-hit000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 0,
+				"y": 247,
+				"w": 96,
+				"h": 78
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 99,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 99,
+				"h": 78
+			}
+		},
+		"goblin-stand000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 188,
+				"y": 247,
+				"w": 56,
+				"h": 74
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 1,
+				"w": 58,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 75
+			}
+		},
+		"goblin-stand001": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 182,
+				"y": 375,
+				"w": 56,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 58,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 75
+			}
+		},
+		"goblin-stand002": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 98,
+				"y": 247,
+				"w": 58,
+				"h": 71
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 4,
+				"w": 58,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 75
+			}
+		},
+		"goblin-stand003": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 122,
+				"y": 381,
+				"w": 58,
+				"h": 70
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 5,
+				"w": 58,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 75
+			}
+		},
+		"goblin-stand004": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 98,
+				"y": 247,
+				"w": 58,
+				"h": 71
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 4,
+				"w": 58,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 75
+			}
+		},
+		"goblin-stand005": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 182,
+				"y": 375,
+				"w": 56,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 58,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 75
+			}
+		},
+		"goblin-stand006": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 188,
+				"y": 247,
+				"w": 56,
+				"h": 74
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 1,
+				"w": 58,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 75
+			}
+		},
+		"portal-spawn000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 299,
+				"y": 156,
+				"w": 54,
+				"h": 76
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn001": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 297,
+				"y": 247,
+				"w": 55,
+				"h": 75
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 3,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn010": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 409,
+				"y": 0,
+				"w": 52,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 3,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn011": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 355,
+				"y": 75,
+				"w": 52,
+				"h": 72
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 4,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn012": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 355,
+				"y": 149,
+				"w": 52,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 3,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn013": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 354,
+				"y": 234,
+				"w": 53,
+				"h": 74
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn002": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 297,
+				"y": 324,
+				"w": 55,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 4,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn003": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 408,
+				"y": 386,
+				"w": 52,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 4,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn004": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 354,
+				"y": 386,
+				"w": 52,
+				"h": 72
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 4,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn005": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 355,
+				"y": 0,
+				"w": 52,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 3,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn006": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 354,
+				"y": 310,
+				"w": 53,
+				"h": 74
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn007": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 299,
+				"y": 78,
+				"w": 54,
+				"h": 76
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 1,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn008": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 299,
+				"y": 0,
+				"w": 54,
+				"h": 76
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		},
+		"portal-spawn009": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 240,
+				"y": 323,
+				"w": 55,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 3,
+				"w": 57,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 78
+			}
+		}
+	},
+	"meta": {
+		"app": "ShoeBox",
+		"size": {
+			"w": 463,
+			"h": 461
+		}
+	}
+}

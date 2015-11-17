@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Spawnage</title>
+    <link rel="stylesheet" href="content/main.css" />
+    <!-- external  -->
+    <script src="lib/phaser.js"></script>
+    <script src="lib/phaser-compat-2.4.js"></script>
+    <script src="lib/EZGUI.js"></script>
+    <script src="lib/jquery-1.11.3.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <!-- game -->
+    <script src="build/SiegeGame.js"></script>
+    <!-- states -->
+    <script src="build/PreloaderState.js"></script>
+    <script src="build/IntroState.js"></script>
+    <script src="build/MenuState.js"></script>
+    <script src="build/GameState.js"></script>
+    <script src="build/GameOverState.js"></script>
+    <!-- maps -->
+    <script src="build/GrassField.js"></script>
+    <!-- bases -->
+    <script src="build/Base.js"></script>
+    <script src="build/FrozenCave.js"></script>
+    <script src="build/ForestCave.js"></script>
+    <!-- player -->
+    <script src="build/Player.js"></script>
+    <script src="build/Position.js"></script>
+    <!-- UI -->
+    <script src="build/IngameUserInterface.js"></script>
+    <script src="build/CharacterButton.js"></script>
+    <!-- characters -->
+    <script src="build/LevelUpStats.js"></script>
+    <script src="build/AnimationResetStats.js"></script>
+    <script src="build/Character.js"></script>
+    <script src="build/CharacterType.js"></script>
+    <script src="build/Action.js"></script>
+    <script src="build/EagleWarrior.js"></script>
+    <script src="build/FirePig.js"></script>
+    <script src="build/GreyDemon.js"></script>
+    <script src="build/HeadCrusher.js"></script>
+    <script src="build/RedDemon.js"></script>
+    <script src="build/SpectralLion.js"></script>
+    <script src="build/SteelPig.js"></script>
+    <script src="build/HellTurtle.js"></script>
+    <script src="build/HyenaFighter.js"></script>
+    <script src="build/KarateCat.js"></script>
+    <script src="build/StoneGiant.js"></script>
+    <script src="build/Vulture.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <div id="formsContainer">
+            <header id="mainHeader">
+                <span>Hello, stranger!</span>
+            </header>
+            <hr>
+            <div id="login">
+                <header id="loginHeader">
+                    <span>Please, tell me who you are</span>
+                </header>
+                <form id="loginForm" action="#">
+                    <input type="text" required="required" placeholder="username" autofocus>
+                    <br>
+                    <input type="password" required="required" placeholder="password">
+                    <br>
+                    <input type="submit" value="login">
+                </form>
+            </div>
+
+            <div id="register">
+                <header id="registerHeader">
+                    <span>Or, who you want to be</span>
+                </header>
+                <form id="registerForm" action="#">
+                    <input type="text" required="required" placeholder="username">
+                    <br>
+                    <input type="password" required="required" placeholder="password">
+                    <br>
+                    <input type="password" required="required" placeholder="repeat password">
+                    <br>
+                    <input type="submit" value="register">
+                </form>
+            </div>
+            <div id="logosContainer">
+                <a href="http://academy.zariba.com" target="_blank">
+                    <img src="content/zaribaAcademy.png" height="62" width="70">
+                </a>
+                <a href="http://phaser.io/" target="_blank">
+                    <img src="content/phaser.png" height="59" width="63">
+                </a>
+                <span>
+                    Copyright (©) 2015 Team AFK
+                </span>
+            </div>
+        </div>
+        <div id="canvasContainer"></div>
+    </div>
+    <div id="fontFix">&nbsp</div>
+</body>
+
+</html>

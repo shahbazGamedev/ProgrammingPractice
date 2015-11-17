@@ -1,0 +1,37 @@
+{"frames": {
+	"charbutton-bg":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":103,"y":256,"w":100,"h":100},
+		"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+		"sourceSize": {"w":100,"h":100}
+	},
+	"charbutton-selected":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":134,"y":150,"w":100,"h":100},
+		"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+		"sourceSize": {"w":100,"h":100}
+	},
+	"charbutton":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":256,"w":100,"h":100},
+		"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+		"sourceSize": {"w":100,"h":100}
+	},
+	"panel-body":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":392,"h":147},
+		"spriteSourceSize": {"x":0,"y":0,"w":392,"h":147},
+		"sourceSize": {"w":392,"h":147}
+	},
+	"upgrade-button":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":150,"w":131,"h":103},
+		"spriteSourceSize": {"x":0,"y":0,"w":131,"h":103},
+		"sourceSize": {"w":131,"h":103}
+	}
+},
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":395,"h":359}
+}
+}

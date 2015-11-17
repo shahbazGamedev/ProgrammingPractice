@@ -1,0 +1,79 @@
+{"frames": {
+	"eagle-warrior":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":235,"y":62,"w":52,"h":52},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+		"sourceSize": {"w":52,"h":52}
+	},
+	"fire-pig":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":118,"y":117,"w":108,"h":108},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+		"sourceSize": {"w":108,"h":108}
+	},
+	"grey-demon":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":191,"y":228,"w":81,"h":79},
+		"spriteSourceSize": {"x":0,"y":0,"w":81,"h":79},
+		"sourceSize": {"w":81,"h":79}
+	},
+	"head-crusher":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":275,"y":196,"w":54,"h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":53},
+		"sourceSize": {"w":54,"h":53}
+	},
+	"hell-turtle":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":101,"y":244,"w":87,"h":86},
+		"spriteSourceSize": {"x":0,"y":0,"w":87,"h":86},
+		"sourceSize": {"w":87,"h":86}
+	},
+	"hyena-fighter":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":244,"w":98,"h":97},
+		"spriteSourceSize": {"x":0,"y":0,"w":98,"h":97},
+		"sourceSize": {"w":98,"h":97}
+	},
+	"karate-cat":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":275,"y":252,"w":48,"h":46},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":46},
+		"sourceSize": {"w":48,"h":46}
+	},
+	"red-demon":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":229,"y":117,"w":78,"h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":78,"h":76},
+		"sourceSize": {"w":78,"h":76}
+	},
+	"spectral-lion":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":118,"y":0,"w":114,"h":114},
+		"spriteSourceSize": {"x":0,"y":0,"w":114,"h":114},
+		"sourceSize": {"w":114,"h":114}
+	},
+	"steel-pig":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":115,"h":124},
+		"spriteSourceSize": {"x":9,"y":0,"w":124,"h":124},
+		"sourceSize": {"w":124,"h":124}
+	},
+	"stone-giant":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":127,"w":115,"h":114},
+		"spriteSourceSize": {"x":0,"y":0,"w":115,"h":114},
+		"sourceSize": {"w":115,"h":114}
+	},
+	"vulture":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":235,"y":0,"w":70,"h":59},
+		"spriteSourceSize": {"x":0,"y":0,"w":70,"h":59},
+		"sourceSize": {"w":70,"h":59}
+	}
+},
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":332,"h":344}
+}
+}

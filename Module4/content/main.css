@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Stanberry';
+    font-style: normal;
+    src: url(./Stanberry.ttf);
+}
+
+@font-face {
+    font-family: 'Geometos';
+    font-style: normal;
+    src: url(./Geometos.ttf);
+}
+
+body, div, input, span {
+    font-family: Stanberry;
+}
+
+body, div {
+    margin: 0;
+    padding: 0;
+}
+
+#container > #formsContainer, #container > #canvasContainer > canvas {
+    height: 576px;
+    width: 1024px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid gray;
+}
+
+#container > #formsContainer header {
+    color: #303030;
+}
+
+#container > #formsContainer > #mainHeader {
+    margin: 25px 0 20px 240px;
+    color: black;
+}
+
+#container > #formsContainer > #mainHeader > span {
+    font-size: 80px;
+    cursor: default;
+}
+
+#container > #formsContainer > hr {
+    margin-bottom: 50px;
+    width: 75%;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+#container > #formsContainer input {
+    margin: 15px;
+    padding: 5px;
+    height: 25px;
+    width: 78%;
+    font-size: 18px;
+}
+
+#container > #formsContainer input:focus {
+    outline: 1px solid #303030;
+    color: #303030;
+}
+
+#container > #formsContainer input[type="submit"] {
+    padding-top: 5px;
+    height: 38px;   
+    width: 81%;
+    border-radius: 0;
+    border: 1px solid darkgray;
+    outline: none;
+    cursor: pointer;
+    color: darkgray;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+#container > #formsContainer input[type="submit"]:hover {
+    outline: 1px solid #303030;
+    color: #303030;
+}
+
+#container > #formsContainer > #login {
+    margin: 0 20px 0 40px;
+    width:  45%;
+    float: left;
+}
+
+#container > #formsContainer > #login > #loginHeader {
+    margin: 0 0 20px 0;
+    font-size: 35px;
+    cursor: default;
+}
+
+#container > #formsContainer > #register {
+    margin: 0 20px;
+    width:  45%;
+    float: right;
+}
+
+#container > #formsContainer > #register > #registerHeader {
+    margin: 0 0 20px 12px;
+    font-size: 35px;
+    cursor: default;
+}
+
+#container > #formsContainer > #logosContainer {
+    position: absolute;
+    top: 470px;
+    left: 130px;
+}
+
+#container > #formsContainer > #logosContainer img {
+    margin-left: 30px;
+    float: left;
+}
+
+#container > #formsContainer > #logosContainer > span {
+    display: inline-block;    
+    position: absolute;
+    width: 200px;
+    top: 70px;
+    left: 32px;
+    font-size: 13px;
+}
+
+#fontFix {
+    visibility: hidden;
+    font-family: "Stanberry";
+    font-family: "Geometos";
+}

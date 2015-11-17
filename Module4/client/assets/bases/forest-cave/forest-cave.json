@@ -1,0 +1,651 @@
+{
+	"frames": {
+		"forest-cave": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 293,
+				"h": 306
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 293,
+				"h": 306
+			},
+			"sourceSize": {
+				"w": 293,
+				"h": 306
+			}
+		},
+		"mushroom-hit000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 58,
+				"y": 308,
+				"w": 50,
+				"h": 56
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 56
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 56
+			}
+		},
+		"mushroom-stand000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 160,
+				"y": 377,
+				"w": 44,
+				"h": 48
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 0,
+				"w": 45,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 48
+			}
+		},
+		"mushroom-stand001": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 206,
+				"y": 377,
+				"w": 44,
+				"h": 47
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 1,
+				"w": 45,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 48
+			}
+		},
+		"mushroom-stand002": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 0,
+				"y": 383,
+				"w": 44,
+				"h": 47
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 1,
+				"w": 45,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 48
+			}
+		},
+		"mushroom-stand003": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 206,
+				"y": 377,
+				"w": 44,
+				"h": 47
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 1,
+				"w": 45,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 48
+			}
+		},
+		"mushroom-stand004": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 160,
+				"y": 377,
+				"w": 44,
+				"h": 48
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 0,
+				"w": 45,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 48
+			}
+		},
+		"mushroom-stand005": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 110,
+				"y": 308,
+				"w": 44,
+				"h": 48
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 0,
+				"w": 45,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 45,
+				"h": 48
+			}
+		},
+		"portal-spawn000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 210,
+				"y": 308,
+				"w": 48,
+				"h": 67
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 1,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn001": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 295,
+				"y": 0,
+				"w": 48,
+				"h": 66
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 2,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn010": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 295,
+				"y": 68,
+				"w": 47,
+				"h": 65
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn011": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 344,
+				"y": 135,
+				"w": 46,
+				"h": 64
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 3,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn012": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 310,
+				"y": 338,
+				"w": 46,
+				"h": 65
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn013": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 295,
+				"y": 202,
+				"w": 47,
+				"h": 66
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 1,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn002": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 109,
+				"y": 366,
+				"w": 49,
+				"h": 64
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 3,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn003": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 295,
+				"y": 135,
+				"w": 47,
+				"h": 65
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 3,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn004": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 344,
+				"y": 201,
+				"w": 46,
+				"h": 64
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 3,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn005": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 344,
+				"y": 68,
+				"w": 46,
+				"h": 65
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn006": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 310,
+				"y": 270,
+				"w": 47,
+				"h": 66
+			},
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 1,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn007": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 160,
+				"y": 308,
+				"w": 48,
+				"h": 67
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 1,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn008": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 260,
+				"y": 308,
+				"w": 48,
+				"h": 66
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 2,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"portal-spawn009": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 58,
+				"y": 366,
+				"w": 49,
+				"h": 65
+			},
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 2,
+				"w": 50,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 68
+			}
+		},
+		"rose-hit000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 0,
+				"y": 308,
+				"w": 56,
+				"h": 73
+			},
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 4,
+				"w": 60,
+				"h": 77
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 77
+			}
+		},
+		"rose-stand000": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 392,
+				"y": 143,
+				"w": 42,
+				"h": 71
+			},
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 1,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		},
+		"rose-stand001": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 392,
+				"y": 0,
+				"w": 43,
+				"h": 70
+			},
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 2,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		},
+		"rose-stand002": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 358,
+				"y": 338,
+				"w": 43,
+				"h": 70
+			},
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 2,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		},
+		"rose-stand003": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 359,
+				"y": 267,
+				"w": 42,
+				"h": 69
+			},
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 3,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		},
+		"rose-stand004": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 392,
+				"y": 72,
+				"w": 42,
+				"h": 69
+			},
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 3,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		},
+		"rose-stand005": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 359,
+				"y": 267,
+				"w": 42,
+				"h": 69
+			},
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 3,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		},
+		"rose-stand006": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 358,
+				"y": 338,
+				"w": 43,
+				"h": 70
+			},
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 2,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		},
+		"rose-stand007": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 392,
+				"y": 0,
+				"w": 43,
+				"h": 70
+			},
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 2,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		},
+		"rose-stand008": {
+			"rotated": false,
+			"trimmed": true,
+			"frame": {
+				"x": 392,
+				"y": 143,
+				"w": 42,
+				"h": 71
+			},
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 1,
+				"w": 51,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 72
+			}
+		}
+	},
+	"meta": {
+		"app": "ShoeBox",
+		"size": {
+			"w": 437,
+			"h": 433
+		}
+	}
+}

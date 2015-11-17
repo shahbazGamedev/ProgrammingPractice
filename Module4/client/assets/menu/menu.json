@@ -1,0 +1,43 @@
+{"frames": {
+	"sky.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":375,"y":514,"w":50,"h":500},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":500},
+		"sourceSize": {"w":50,"h":500}
+	},
+	"help-button.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":514,"w":372,"h":127},
+		"spriteSourceSize": {"x":0,"y":0,"w":372,"h":127},
+		"sourceSize": {"w":372,"h":127}
+	},
+	"menu-background.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":1032,"h":367},
+		"spriteSourceSize": {"x":0,"y":0,"w":1032,"h":367},
+		"sourceSize": {"w":1032,"h":367}
+	},
+	"play-button.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":644,"w":372,"h":127},
+		"spriteSourceSize": {"x":0,"y":0,"w":372,"h":127},
+		"sourceSize": {"w":372,"h":127}
+	},
+	"sPAWNage.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":370,"w":435,"h":141},
+		"spriteSourceSize": {"x":0,"y":0,"w":435,"h":141},
+		"sourceSize": {"w":435,"h":141}
+	},
+	"shop-button.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":774,"w":372,"h":127},
+		"spriteSourceSize": {"x":0,"y":0,"w":372,"h":127},
+		"sourceSize": {"w":372,"h":127}
+	}
+},
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":1035,"h":1017}
+}
+}

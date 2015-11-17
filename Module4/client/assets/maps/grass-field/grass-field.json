@@ -1,0 +1,246 @@
+{
+	"frames": {
+		"background-mountains": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 1024,
+				"h": 449
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1024,
+				"h": 449
+			},
+			"sourceSize": {
+				"w": 1024,
+				"h": 449
+			}
+		},
+		"background-cloud000": {
+			"frame": {
+				"x": 0,
+				"y": 990,
+				"w": 182,
+				"h": 99
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 182,
+				"h": 99
+			},
+			"sourceSize": {
+				"w": 182,
+				"h": 99
+			}
+		},
+		"background-cloud001": {
+			"frame": {
+				"x": 366,
+				"y": 990,
+				"w": 154,
+				"h": 87
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 154,
+				"h": 87
+			},
+			"sourceSize": {
+				"w": 154,
+				"h": 87
+			}
+		},
+		"background-cloud002": {
+			"frame": {
+				"x": 184,
+				"y": 990,
+				"w": 180,
+				"h": 116
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 180,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 180,
+				"h": 116
+			}
+		},
+		"bird-fly000": {
+			"frame": {
+				"x": 522,
+				"y": 990,
+				"w": 128,
+				"h": 95
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 116
+			}
+		},
+		"bird-fly001": {
+			"frame": {
+				"x": 1004,
+				"y": 924,
+				"w": 108,
+				"h": 87
+			},
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 29,
+				"w": 128,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 116
+			}
+		},
+		"bird-fly002": {
+			"frame": {
+				"x": 894,
+				"y": 990,
+				"w": 108,
+				"h": 70
+			},
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 29,
+				"w": 128,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 116
+			}
+		},
+		"bird-fly003": {
+			"frame": {
+				"x": 996,
+				"y": 857,
+				"w": 108,
+				"h": 65
+			},
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 29,
+				"w": 128,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 116
+			}
+		},
+		"bird-fly004": {
+			"frame": {
+				"x": 652,
+				"y": 990,
+				"w": 120,
+				"h": 83
+			},
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 11,
+				"w": 128,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 116
+			}
+		},
+		"foreground-clouds": {
+			"frame": {
+				"x": 0,
+				"y": 692,
+				"w": 1024,
+				"h": 163
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 413,
+				"w": 1024,
+				"h": 576
+			},
+			"sourceSize": {
+				"w": 1024,
+				"h": 576
+			}
+		},
+		"foreground-mountains": {
+			"frame": {
+				"x": 0,
+				"y": 857,
+				"w": 994,
+				"h": 131
+			},
+			"spriteSourceSize": {
+				"x": 30,
+				"y": 423,
+				"w": 1024,
+				"h": 576
+			},
+			"sourceSize": {
+				"w": 1024,
+				"h": 576
+			}
+		},
+		"battlefield": {
+			"frame": {
+				"x": 0,
+				"y": 451,
+				"w": 1024,
+				"h": 239
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 272,
+				"w": 1024,
+				"h": 576
+			},
+			"sourceSize": {
+				"w": 1024,
+				"h": 576
+			}
+		},
+		"sky": {
+			"frame": {
+				"x": 1026,
+				"y": 0,
+				"w": 10,
+				"h": 576
+			},
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 10,
+				"h": 576
+			},
+			"sourceSize": {
+				"w": 10,
+				"h": 576
+			}
+		}
+	},
+	"meta": {
+		"image": "grass-field",
+		"size": {
+			"w": 1114,
+			"h": 1108
+		},
+		"scale": "1"
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "codename-siege",
+  "version": "1.0.0",
+  "dependencies": {
+    "death": "^1.0.0",
+    "express": "^4.13.3",
+    "mysql": "^2.9.0",
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-copy": "^0.1.0",
+    "grunt-typescript": "^0.7.0"
+  }
+}
