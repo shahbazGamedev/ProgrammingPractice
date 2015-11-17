@@ -6,10 +6,7 @@ var mysql = require('mysql');
 var death = require('death'); 
  
 var connection = mysql.createConnection({
-	host: '173.194.229.132',
-	user: 'tgrigorov',
-	password: '',
-	database: 'Spawnage'
+	// insert db info here
 });
 
 var app = express();
