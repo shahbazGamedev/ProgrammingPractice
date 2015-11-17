@@ -1,1 +1,1 @@
-Data Structures, Algorithms, Unity game programming with C# Module
+Data Structures, Algorithms & Unity game programming with C# Module
