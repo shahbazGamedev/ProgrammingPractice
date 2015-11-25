@@ -4,251 +4,335 @@ using System.Collections.Generic;
 
 namespace LinkedList
 {
-	public class LinkedList<T> : ILinkedList<T>, IEnumerable<T>
-	{
-		public int Count { get; private	set; }
+    public class LinkedList<T> : ILinkedList<T>, IEnumerable<T>, IComparer<T>
+    {
+        public int Count { get; private set; }
 
-		private Element<T> first;
-		private Element<T> last;
+        public T First
+        {
+            get
+            {
+                if (this.Count == 0)
+                {
+                    throw new ArgumentOutOfRangeException("List is empty");
+                }
 
-		public class Element<G>
-		{
-			public Element(T value)
-			{
-				this.Value = value;
-			}
+                return this.first.Value;
+            }
+        }
 
-			public T Value { get; set; }
+        public T Last
+        {
+            get
+            {
+                if (this.Count == 0)
+                {
+                    throw new ArgumentOutOfRangeException("List is empty");
+                }
 
-			public Element<G> Previous { get; set; }
+                return this.last.Value;
+            }
+        }
 
-			public Element<G> Next { get; set; }
-		}
+        private Element<T> first;
+        private Element<T> last;
 
-		public IEnumerator<T> GetEnumerator()
-		{
-			Element<T> element = this.first;
+        public class Element<T> : IComparable<Element<T>>
+        {
+            public Element(T value)
+            {
+                this.Value = value;
+            }
 
-			while (element != null)
-			{
-				yield return element.Value;
-				element = element.Next;
-			}
-		}
+            public T Value { get; set; }
 
-		IEnumerator IEnumerable.GetEnumerator()
-		{
-			return this.GetEnumerator();
-		}
+            public Element<T> Previous { get; set; }
 
-		public void AddFirst(T value)
-		{
-			Element<T> element = new Element<T>(value);
+            public Element<T> Next { get; set; }
 
-			if (this.first == null)
-			{
-				this.first = element;
-				this.last = element;
-			}
-			else
-			{
-				this.first.Previous = element;
-				element.Next = this.first;
-				this.first = element;
-			}
+            public int CompareTo(Element<T> other)
+            {
+                int result;
 
-			this.Count++;
-		}
+                if (this.Value.Equals(other.Value))
+                {
+                    result = 0;
+                }
+                else
+                {
+                    IComparable comparator = (IComparable)this.Value;
+                    if (comparator != null)
+                    {
+                        result = comparator.CompareTo(other.Value) < 0 ? 1 : -1;
+                    }
+                    else
+                    {
+                        throw new InvalidCastException("Could not compare the elements properly");
+                    }
+                }
+            
+                return result;
+            }
+        }
 
-		public void AddLast(T value)
-		{
-			Element<T> element = new Element<T>(value);
+        public IEnumerator<T> GetEnumerator()
+        {
+            Element<T> element = this.first;
 
-			if (this.first == null)
-			{
-				this.first = element;
-				this.last = element;
-			}
-			else
-			{
-				this.last.Next = element;
-				element.Previous = this.last;
-				this.last = element;
-			}
+            while (element != null)
+            {
+                yield return element.Value;
+                element = element.Next;
+            }
+        }
 
-			this.Count++;
-		}
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return this.GetEnumerator();
+        }
 
-		public void AddAfter(T afterValue, T value)
-		{
-			if (!this.Contains(afterValue))
-			{
-				throw new ArgumentOutOfRangeException("The value specified does not exist in the list");
-			}
+        public int Compare(T first, T second)
+        {
+            Element<T> firstElement = new Element<T>(first);
+            Element<T> secondElement = new Element<T>(second);
 
-			Element<T> requiredElement = (Element<T>)this.ElementAt(this.IndexOf(afterValue));
+            return firstElement.CompareTo(secondElement);
+        }
 
-			Element<T> insertionElement = new Element<T>(value);
+        public void AddFirst(T value)
+        {
+            Element<T> element = new Element<T>(value);
 
-			if (requiredElement.Next != null)
-			{
-				insertionElement.Next = requiredElement.Next;
-				insertionElement.Previous = requiredElement;
+            if (this.first == null)
+            {
+                this.first = element;
+                this.last = element;
+            }
+            else
+            {
+                this.first.Previous = element;
+                element.Next = this.first;
+                this.first = element;
+            }
 
-				requiredElement.Next.Previous = insertionElement;
-				requiredElement.Next = insertionElement;
+            this.Count++;
+        }
 
-				this.Count++;
-			}
-			else
-			{
-				this.AddLast(value);
-			}
-		}
+        public void AddLast(T value)
+        {
+            Element<T> element = new Element<T>(value);
 
-		public void AddBefore(T beforeValue, T value)
-		{
-			if (!this.Contains(beforeValue))
-			{
-				throw new ArgumentOutOfRangeException("The value specified does not exist in the list");
-			}
+            if (this.first == null)
+            {
+                this.first = element;
+                this.last = element;
+            }
+            else
+            {
+                this.last.Next = element;
+                element.Previous = this.last;
+                this.last = element;
+            }
 
-			Element<T> requiredElement = (Element<T>)this.ElementAt(this.IndexOf(beforeValue));
+            this.Count++;
+        }
 
-			Element<T> insertionElement = new Element<T>(value);
+        public void AddAfter(T afterValue, T value)
+        {
+            if (!this.Contains(afterValue))
+            {
+                throw new ArgumentOutOfRangeException("The value specified does not exist in the list");
+            }
 
-			if (requiredElement.Previous != null)
-			{
-				insertionElement.Next = requiredElement;
-				insertionElement.Previous = requiredElement.Previous;
+            Element<T> requiredElement = (Element<T>)this.ElementAt(this.IndexOf(afterValue));
 
-				requiredElement.Previous.Next = insertionElement;
-				requiredElement.Previous = insertionElement;
+            Element<T> insertionElement = new Element<T>(value);
 
-				this.Count++;
-			}
-			else
-			{
-				this.AddFirst(value);
-			}
-		}
+            if (requiredElement.Next != null)
+            {
+                insertionElement.Next = requiredElement.Next;
+                insertionElement.Previous = requiredElement;
 
-		public void RemoveAt(int index)
-		{
-			if (this.Count == 0)
-			{
-				throw new ArgumentOutOfRangeException("Stack is empty");
-			}
+                requiredElement.Next.Previous = insertionElement;
+                requiredElement.Next = insertionElement;
 
-			Element<T> removedElement = (Element<T>)this.ElementAt(index);
+                this.Count++;
+            }
+            else
+            {
+                this.AddLast(value);
+            }
+        }
 
-			if (removedElement.Previous != null)
-			{
-				removedElement.Previous.Next = removedElement.Next;
-			}
-			else
-			{
-				this.first = removedElement.Next;
-			}
+        public void AddBefore(T beforeValue, T value)
+        {
+            if (!this.Contains(beforeValue))
+            {
+                throw new ArgumentOutOfRangeException("The value specified does not exist in the list");
+            }
 
-			if (removedElement.Next != null)
-			{
-				removedElement.Next.Previous = removedElement.Previous;
-			}
-			else
-			{
-				this.last = removedElement.Previous;
-			}
+            Element<T> requiredElement = (Element<T>)this.ElementAt(this.IndexOf(beforeValue));
 
-			this.Count--;
-		}
+            Element<T> insertionElement = new Element<T>(value);
 
-		public int IndexOf(T value)
-		{
-			int index = 0;
+            if (requiredElement.Previous != null)
+            {
+                insertionElement.Next = requiredElement;
+                insertionElement.Previous = requiredElement.Previous;
 
-			bool elementFound = false;
-			foreach (T element in this)
-			{
-				if (element.Equals(value))
-				{
-					elementFound = true;
-					break;
-				}	
+                requiredElement.Previous.Next = insertionElement;
+                requiredElement.Previous = insertionElement;
 
-				index++;
-			}
+                this.Count++;
+            }
+            else
+            {
+                this.AddFirst(value);
+            }
+        }
 
-			if (!elementFound)
-			{
-				index = -1;
-			}
+        public void InsertAt(int index, T value)
+        {
+            Element<T> insertionElement = new Element<T>(value);
 
-			return index;
-		}
+            Element<T> previous = null;
+            if (index + 1 < this.Count)
+            {
+                previous = (Element<T>)this.ElementAt(index + 1);
+                previous.Next = insertionElement;
+            }
 
-		public object ElementAt(int index)
-		{
-			if (index < 0 || index >= this.Count)
-			{
-				throw new ArgumentOutOfRangeException("Invalid index");
-			}
-			
-			Element<T> element = this.first;
-			
-			int counter = 0;
-			while (true)
-			{
-				if (element.Next == null || counter == index)
-				{
-					break;
-				}
-				
-				counter++;
-				element = element.Next;
-			}
-			
-			return element;
-		}
+            Element<T> next = null;
+            if (index >= 0)
+            {
+                next = (Element<T>)this.ElementAt(index - 1);
+                next.Previous = insertionElement;
+            }
 
-		public T First()
-		{
-			if (this.Count == 0)
-			{
-				throw new ArgumentOutOfRangeException("Stack is empty");
-			}
+            insertionElement.Next = next;
+            insertionElement.Previous = previous;
 
-			return this.first.Value;
-		}
+            this.Count++;
+        }
 
-		public T Last()
-		{
-			if (this.Count == 0)
-			{
-				throw new ArgumentOutOfRangeException("Stack is empty");
-			}
+        public void RemoveAt(int index)
+        {
+            if (this.Count == 0)
+            {
+                throw new ArgumentOutOfRangeException("List is empty");
+            }
 
-			return this.last.Value;
-		}
+            Element<T> removedElement = (Element<T>)this.ElementAt(index);
 
-		public bool Contains(T value)
-		{
-			bool contains = false;
+            if (removedElement.Previous != null)
+            {
+                removedElement.Previous.Next = removedElement.Next;
+            }
+            else
+            {
+                this.first = removedElement.Next;
+            }
 
-			if (this.IndexOf(value) != -1)
-			{
-				contains = true;
-			}
+            if (removedElement.Next != null)
+            {
+                removedElement.Next.Previous = removedElement.Previous;
+            }
+            else
+            {
+                this.last = removedElement.Previous;
+            }
 
-			return contains;
-		}
+            this.Count--;
+        }
 
-		public void Clear()
-		{
-			this.first = null;
-			this.last = null;
-			this.Count = 0;
-		}
-	}
+        public int IndexOf(T value)
+        {
+            int index = 0;
+
+            bool elementFound = false;
+            foreach (T element in this)
+            {
+                if (element.Equals(value))
+                {
+                    elementFound = true;
+                    break;
+                }	
+
+                index++;
+            }
+
+            if (!elementFound)
+            {
+                index = -1;
+            }
+
+            return index;
+        }
+
+        public T this [int index]
+        {
+            get
+            {
+                Element<T> element = (Element<T>)this.ElementAt(index);
+                return element.Value;
+            }
+            set
+            {
+                Element<T> element = (Element<T>)this.ElementAt(index);
+                element.Value = value;
+            }
+        }
+
+        public bool Contains(T value)
+        {
+            bool contains = false;
+
+            if (this.IndexOf(value) != -1)
+            {
+                contains = true;
+            }
+
+            return contains;
+        }
+
+        public void Clear()
+        {
+            this.first = null;
+            this.last = null;
+            this.Count = 0;
+        }
+
+        public void Swap(int first, int second)
+        {
+            T temp = this[first];
+            this[first] = this[second];
+            this[second] = temp;
+        }
+
+        private object ElementAt(int index)
+        {
+            if (index < 0 || index >= this.Count)
+            {
+                throw new ArgumentOutOfRangeException("Invalid index");
+            }
+
+            Element<T> element = this.first;
+
+            int Counter = 0;
+            while (true)
+            {
+                if (element.Next == null || Counter == index)
+                {
+                    break;
+                }
+
+                Counter++;
+                element = element.Next;
+            }
+
+            return element;
+        }
+
+    }
 }
 

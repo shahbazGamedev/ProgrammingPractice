@@ -10,19 +10,17 @@ namespace LinkedList
 
         void AddBefore(T beforeValue, T value);
 
+        void InsertAt(int index, T value);
+
         void RemoveAt(int index);
 
         int IndexOf(T value);
 
-        object ElementAt(int index);
-
-        T First();
-
-        T Last();
-
         bool Contains(T value);
 
         void Clear();
+
+        void Swap(int first, int second);
     }
 }
 

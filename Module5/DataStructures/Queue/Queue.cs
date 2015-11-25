@@ -26,7 +26,7 @@ namespace Queue
 
         public T Peek()
         {
-            return this.elements.Last();
+            return this.elements.Last;
         }
 
         public int Count()
