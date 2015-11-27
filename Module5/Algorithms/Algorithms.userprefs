@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="QuickSort/LinkedListExtensions.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MergeSort/Test.cs">
     <Files>
-      <File FileName="QuickSort/Test.cs" Line="1" Column="1" />
-      <File FileName="QuickSort/LinkedListExtensions.cs" Line="14" Column="14" />
+      <File FileName="MergeSort/Test.cs" Line="13" Column="13" />
+      <File FileName="MergeSort/LinkedListExtensions.cs" Line="37" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

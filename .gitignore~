@@ -7,4 +7,3 @@ obj
 *.sln
 *.csproj
 App.config
-*.userprefs
